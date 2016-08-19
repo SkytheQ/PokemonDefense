@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: 60e76705ec5a1cd4986aa5caf2399ddd
+timeCreated: 1471620494
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS - Pokmon Ranger 3 Guardian Signs - Pichu_0
+    21300002: DS - Pokmon Ranger 3 Guardian Signs - Pichu_1
+    21300004: DS - Pokmon Ranger 3 Guardian Signs - Pichu_2
+    21300006: DS - Pokmon Ranger 3 Guardian Signs - Pichu_3
+    21300008: DS - Pokmon Ranger 3 Guardian Signs - Pichu_4
+    21300010: DS - Pokmon Ranger 3 Guardian Signs - Pichu_5
+    21300012: DS - Pokmon Ranger 3 Guardian Signs - Pichu_6
+    21300014: DS - Pokmon Ranger 3 Guardian Signs - Pichu_7
+    21300016: DS - Pokmon Ranger 3 Guardian Signs - Pichu_8
+    21300018: DS - Pokmon Ranger 3 Guardian Signs - Pichu_9
+    21300020: DS - Pokmon Ranger 3 Guardian Signs - Pichu_10
+    21300022: DS - Pokmon Ranger 3 Guardian Signs - Pichu_11
+    21300024: DS - Pokmon Ranger 3 Guardian Signs - Pichu_12
+    21300026: DS - Pokmon Ranger 3 Guardian Signs - Pichu_13
+    21300028: DS - Pokmon Ranger 3 Guardian Signs - Pichu_14
+    21300030: DS - Pokmon Ranger 3 Guardian Signs - Pichu_15
+    21300032: DS - Pokmon Ranger 3 Guardian Signs - Pichu_16
+    21300034: DS - Pokmon Ranger 3 Guardian Signs - Pichu_17
+    21300036: DS - Pokmon Ranger 3 Guardian Signs - Pichu_18
+    21300038: DS - Pokmon Ranger 3 Guardian Signs - Pichu_19
+    21300040: DS - Pokmon Ranger 3 Guardian Signs - Pichu_20
+    21300042: DS - Pokmon Ranger 3 Guardian Signs - Pichu_21
+    21300044: DS - Pokmon Ranger 3 Guardian Signs - Pichu_22
+    21300046: DS - Pokmon Ranger 3 Guardian Signs - Pichu_23
+    21300048: DS - Pokmon Ranger 3 Guardian Signs - Pichu_24
+    21300050: DS - Pokmon Ranger 3 Guardian Signs - Pichu_25
+    21300052: DS - Pokmon Ranger 3 Guardian Signs - Pichu_26
+    21300054: DS - Pokmon Ranger 3 Guardian Signs - Pichu_27
+    21300056: DS - Pokmon Ranger 3 Guardian Signs - Pichu_28
+    21300058: DS - Pokmon Ranger 3 Guardian Signs - Pichu_29
+    21300060: DS - Pokmon Ranger 3 Guardian Signs - Pichu_30
+    21300062: DS - Pokmon Ranger 3 Guardian Signs - Pichu_31
+    21300064: DS - Pokmon Ranger 3 Guardian Signs - Pichu_32
+    21300066: DS - Pokmon Ranger 3 Guardian Signs - Pichu_33
+    21300068: DS - Pokmon Ranger 3 Guardian Signs - Pichu_34
+    21300070: DS - Pokmon Ranger 3 Guardian Signs - Pichu_35
+    21300072: DS - Pokmon Ranger 3 Guardian Signs - Pichu_36
+    21300074: DS - Pokmon Ranger 3 Guardian Signs - Pichu_37
+    21300076: DS - Pokmon Ranger 3 Guardian Signs - Pichu_38
+    21300078: DS - Pokmon Ranger 3 Guardian Signs - Pichu_39
+    21300080: DS - Pokmon Ranger 3 Guardian Signs - Pichu_40
+    21300082: DS - Pokmon Ranger 3 Guardian Signs - Pichu_41
+    21300084: DS - Pokmon Ranger 3 Guardian Signs - Pichu_42
+    21300086: DS - Pokmon Ranger 3 Guardian Signs - Pichu_43
+    21300088: DS - Pokmon Ranger 3 Guardian Signs - Pichu_44
+    21300090: DS - Pokmon Ranger 3 Guardian Signs - Pichu_45
+    21300092: DS - Pokmon Ranger 3 Guardian Signs - Pichu_46
+    21300094: DS - Pokmon Ranger 3 Guardian Signs - Pichu_47
+    21300096: DS - Pokmon Ranger 3 Guardian Signs - Pichu_48
+    21300098: DS - Pokmon Ranger 3 Guardian Signs - Pichu_49
+    21300100: DS - Pokmon Ranger 3 Guardian Signs - Pichu_50
+    21300102: DS - Pokmon Ranger 3 Guardian Signs - Pichu_51
+    21300104: DS - Pokmon Ranger 3 Guardian Signs - Pichu_52
+    21300106: DS - Pokmon Ranger 3 Guardian Signs - Pichu_53
+    21300108: DS - Pokmon Ranger 3 Guardian Signs - Pichu_54
+    21300110: DS - Pokmon Ranger 3 Guardian Signs - Pichu_55
+    21300112: DS - Pokmon Ranger 3 Guardian Signs - Pichu_56
+    21300114: DS - Pokmon Ranger 3 Guardian Signs - Pichu_57
+    21300116: DS - Pokmon Ranger 3 Guardian Signs - Pichu_58
+    21300118: DS - Pokmon Ranger 3 Guardian Signs - Pichu_59
+    21300120: DS - Pokmon Ranger 3 Guardian Signs - Pichu_60
+    21300122: DS - Pokmon Ranger 3 Guardian Signs - Pichu_61
+    21300124: DS - Pokmon Ranger 3 Guardian Signs - Pichu_62
+    21300126: DS - Pokmon Ranger 3 Guardian Signs - Pichu_63
+    21300128: DS - Pokmon Ranger 3 Guardian Signs - Pichu_64
+    21300130: DS - Pokmon Ranger 3 Guardian Signs - Pichu_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 170
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 170
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 170
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 170
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 169
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 171
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 172
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 164
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 163
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 164
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 164
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 164
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 161
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 162
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_15
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 166
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 128
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 128
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 126
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 129
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 116
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 115
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 116
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_27
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 116
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 116
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_29
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 113
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 114
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_31
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 118
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 86
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 86
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 86
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 85
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 84
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 83
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_39
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 84
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_40
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 68
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_41
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 67
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_42
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 68
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_43
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 68
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 65
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_45
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 66
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_46
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 70
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_47
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 78
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_48
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 68
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 43
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_50
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 43
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 43
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 41
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_54
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 40
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_55
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 41
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_57
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 17
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 18
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_59
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 22
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_60
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 20
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_61
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 19
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_62
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 20
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_63
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_64
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 20
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Pichu_65
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 20
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

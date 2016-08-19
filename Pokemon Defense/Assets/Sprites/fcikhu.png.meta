@@ -1,0 +1,1983 @@
+fileFormatVersion: 2
+guid: c25c49dc095f0b84da3150e20244723e
+timeCreated: 1470488376
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fcikhu_0
+    21300002: fcikhu_1
+    21300004: fcikhu_2
+    21300006: fcikhu_3
+    21300008: fcikhu_4
+    21300010: fcikhu_5
+    21300012: fcikhu_6
+    21300014: fcikhu_7
+    21300016: fcikhu_8
+    21300018: fcikhu_9
+    21300020: fcikhu_10
+    21300022: fcikhu_11
+    21300024: fcikhu_12
+    21300026: fcikhu_13
+    21300028: fcikhu_14
+    21300030: fcikhu_15
+    21300032: fcikhu_16
+    21300034: fcikhu_17
+    21300036: fcikhu_18
+    21300038: fcikhu_19
+    21300040: fcikhu_20
+    21300042: fcikhu_21
+    21300044: fcikhu_22
+    21300046: fcikhu_23
+    21300048: fcikhu_24
+    21300050: fcikhu_25
+    21300052: fcikhu_26
+    21300054: fcikhu_27
+    21300056: fcikhu_28
+    21300058: fcikhu_29
+    21300060: fcikhu_30
+    21300062: fcikhu_31
+    21300064: fcikhu_32
+    21300066: fcikhu_33
+    21300068: fcikhu_34
+    21300070: fcikhu_35
+    21300072: fcikhu_36
+    21300074: fcikhu_37
+    21300076: fcikhu_38
+    21300078: fcikhu_39
+    21300080: fcikhu_40
+    21300082: fcikhu_41
+    21300084: fcikhu_42
+    21300086: fcikhu_43
+    21300088: fcikhu_44
+    21300090: fcikhu_45
+    21300092: fcikhu_46
+    21300094: fcikhu_47
+    21300096: fcikhu_48
+    21300098: fcikhu_49
+    21300100: fcikhu_50
+    21300102: fcikhu_51
+    21300104: fcikhu_52
+    21300106: fcikhu_53
+    21300108: fcikhu_54
+    21300110: fcikhu_55
+    21300112: fcikhu_56
+    21300114: fcikhu_57
+    21300116: fcikhu_58
+    21300118: fcikhu_59
+    21300120: fcikhu_60
+    21300122: fcikhu_61
+    21300124: fcikhu_62
+    21300126: fcikhu_63
+    21300128: fcikhu_64
+    21300130: fcikhu_65
+    21300132: fcikhu_66
+    21300134: fcikhu_67
+    21300136: fcikhu_68
+    21300138: fcikhu_69
+    21300140: fcikhu_70
+    21300142: fcikhu_71
+    21300144: fcikhu_72
+    21300146: fcikhu_73
+    21300148: fcikhu_74
+    21300150: fcikhu_75
+    21300152: fcikhu_76
+    21300154: fcikhu_77
+    21300156: fcikhu_78
+    21300158: fcikhu_79
+    21300160: fcikhu_80
+    21300162: fcikhu_81
+    21300164: fcikhu_82
+    21300166: fcikhu_83
+    21300168: fcikhu_84
+    21300170: fcikhu_85
+    21300172: fcikhu_86
+    21300174: fcikhu_87
+    21300176: fcikhu_88
+    21300178: fcikhu_89
+    21300180: fcikhu_90
+    21300182: fcikhu_91
+    21300184: fcikhu_92
+    21300186: fcikhu_93
+    21300188: fcikhu_94
+    21300190: fcikhu_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fcikhu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 8}
+        - {x: -14, y: 8}
+        - {x: -14, y: -10}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -14}
+        - {x: 16, y: -8}
+        - {x: 16, y: -1}
+    - name: fcikhu_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: -2}
+        - {x: -14, y: -12}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: -1}
+        - {x: 13, y: 8}
+    - name: fcikhu_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -15, y: 0}
+        - {x: -15, y: -7}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: 0}
+        - {x: 13, y: 8}
+    - name: fcikhu_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 7}
+        - {x: -9, y: 6}
+        - {x: -9, y: -15}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 5}
+        - {x: 6, y: 7}
+    - name: fcikhu_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -8, y: 4}
+        - {x: -9, y: -3}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 6}
+        - {x: 4, y: 7}
+    - name: fcikhu_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -9, y: 0}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 6}
+        - {x: 7, y: 7}
+    - name: fcikhu_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 8}
+        - {x: -14, y: -16}
+        - {x: 2, y: -16}
+        - {x: 7, y: -14}
+        - {x: 12, y: -9}
+        - {x: 12, y: 7}
+    - name: fcikhu_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -14, y: 2}
+        - {x: -14, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 3}
+        - {x: 8, y: 16}
+    - name: fcikhu_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -10}
+        - {x: -7, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 1}
+        - {x: 9, y: 9}
+        - {x: 6, y: 16}
+    - name: fcikhu_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -10, y: 7}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: 5}
+        - {x: 2, y: 10}
+    - name: fcikhu_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -11, y: -1}
+        - {x: -11, y: -13}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: -2}
+        - {x: 3, y: 10}
+    - name: fcikhu_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -10, y: 0}
+        - {x: -10, y: -14}
+        - {x: -7, y: -16}
+        - {x: -4, y: -16}
+        - {x: 6, y: -15}
+        - {x: 10, y: -11}
+        - {x: 10, y: -2}
+        - {x: 3, y: 10}
+    - name: fcikhu_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -3, y: 10}
+        - {x: -12, y: 3}
+        - {x: -12, y: -10}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: -1}
+        - {x: 11, y: 4}
+    - name: fcikhu_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 11}
+        - {x: -2, y: 11}
+        - {x: -11, y: 5}
+        - {x: -11, y: -9}
+        - {x: -6, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 1}
+        - {x: 13, y: 4}
+    - name: fcikhu_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 4}
+        - {x: 4, y: 11}
+    - name: fcikhu_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 5}
+        - {x: -11, y: 1}
+        - {x: -11, y: -13}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 2}
+        - {x: 10, y: 5}
+    - name: fcikhu_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 6}
+        - {x: -6, y: 6}
+        - {x: -11, y: 3}
+        - {x: -11, y: -10}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 1}
+    - name: fcikhu_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 5}
+        - {x: -11, y: -1}
+        - {x: -11, y: -13}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -7}
+        - {x: 13, y: 0}
+        - {x: 8, y: 5}
+    - name: fcikhu_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -13, y: 13}
+        - {x: -16, y: 4}
+        - {x: -16, y: -11}
+        - {x: -14, y: -14}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 9}
+        - {x: 14, y: 14}
+    - name: fcikhu_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 11, y: 16}
+        - {x: -8, y: 16}
+        - {x: -13, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: -14}
+        - {x: -13, y: -16}
+        - {x: -2, y: -16}
+        - {x: 0, y: -14}
+        - {x: 4, y: -16}
+        - {x: 16, y: -16}
+    - name: fcikhu_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -12, y: 12}
+        - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 12, y: 16}
+    - name: fcikhu_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 8}
+        - {x: -8, y: -1}
+        - {x: -8, y: -12}
+        - {x: -5, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: -2}
+        - {x: 10, y: 8}
+    - name: fcikhu_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 9}
+        - {x: -1, y: 9}
+        - {x: -10, y: 0}
+        - {x: -10, y: -7}
+        - {x: -9, y: -12}
+        - {x: -7, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: 6, y: 8}
+    - name: fcikhu_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 8}
+        - {x: -9, y: -1}
+        - {x: -9, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 0}
+        - {x: 11, y: 8}
+    - name: fcikhu_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -15}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -14}
+        - {x: 11, y: 5}
+        - {x: 6, y: 10}
+    - name: fcikhu_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -13, y: 3}
+        - {x: -15, y: -8}
+        - {x: -15, y: -14}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -11}
+        - {x: 10, y: 2}
+        - {x: -1, y: 11}
+    - name: fcikhu_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -13, y: 6}
+        - {x: -13, y: -16}
+        - {x: 5, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 2}
+        - {x: 4, y: 11}
+    - name: fcikhu_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 5}
+        - {x: -5, y: 5}
+        - {x: -13, y: 1}
+        - {x: -13, y: -11}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -14}
+        - {x: 11, y: -7}
+        - {x: 11, y: 0}
+    - name: fcikhu_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 6}
+        - {x: -9, y: 6}
+        - {x: -14, y: 3}
+        - {x: -14, y: -7}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 1}
+    - name: fcikhu_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 5}
+        - {x: -13, y: 2}
+        - {x: -13, y: -5}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -14}
+        - {x: 11, y: 2}
+        - {x: 2, y: 5}
+    - name: fcikhu_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 14}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 1, y: 14}
+    - name: fcikhu_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 11}
+        - {x: 1, y: 16}
+    - name: fcikhu_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+        - {x: 11, y: 12}
+    - name: fcikhu_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -9, y: 7}
+        - {x: -15, y: -3}
+        - {x: -15, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -10}
+        - {x: 7, y: 0}
+        - {x: -1, y: 8}
+    - name: fcikhu_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 9}
+        - {x: -8, y: 9}
+        - {x: -15, y: 4}
+        - {x: -15, y: -13}
+        - {x: -11, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -12}
+        - {x: 9, y: -5}
+        - {x: 9, y: 0}
+    - name: fcikhu_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -14, y: -5}
+        - {x: -14, y: -12}
+        - {x: -12, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 0}
+        - {x: 5, y: 8}
+    - name: fcikhu_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -13, y: 10}
+        - {x: -14, y: 7}
+        - {x: -14, y: -10}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 1}
+        - {x: 15, y: 8}
+    - name: fcikhu_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 9}
+        - {x: -12, y: 9}
+        - {x: -13, y: 8}
+        - {x: -14, y: 1}
+        - {x: -14, y: -11}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: 8}
+    - name: fcikhu_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 10}
+        - {x: -16, y: 3}
+        - {x: -16, y: -11}
+        - {x: -12, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 10}
+    - name: fcikhu_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 6}
+        - {x: -8, y: 2}
+        - {x: -9, y: -14}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: -2}
+        - {x: 6, y: 6}
+    - name: fcikhu_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -9, y: 6}
+        - {x: -9, y: -14}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 5}
+        - {x: 2, y: 8}
+    - name: fcikhu_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 6}
+        - {x: -9, y: 1}
+        - {x: -9, y: -14}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 4}
+        - {x: 4, y: 6}
+    - name: fcikhu_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -12, y: 12}
+        - {x: -12, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 12}
+        - {x: 11, y: 15}
+    - name: fcikhu_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -14, y: 8}
+        - {x: -14, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 11}
+        - {x: 3, y: 14}
+    - name: fcikhu_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -15, y: 9}
+        - {x: -15, y: -12}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -12}
+        - {x: 10, y: 12}
+        - {x: 3, y: 15}
+    - name: fcikhu_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -10, y: -1}
+        - {x: -10, y: -14}
+        - {x: -6, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: -1}
+        - {x: 3, y: 10}
+    - name: fcikhu_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -11, y: -1}
+        - {x: -11, y: -12}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -12}
+        - {x: 10, y: -2}
+        - {x: 2, y: 10}
+    - name: fcikhu_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -10, y: 3}
+        - {x: -10, y: -15}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: 2}
+        - {x: 2, y: 10}
+    - name: fcikhu_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: 11, y: -10}
+        - {x: 12, y: -9}
+        - {x: 12, y: 5}
+        - {x: 6, y: 13}
+    - name: fcikhu_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -9}
+        - {x: -11, y: -11}
+        - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 11, y: 10}
+    - name: fcikhu_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -11, y: -10}
+        - {x: 11, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: 4}
+        - {x: 8, y: 13}
+    - name: fcikhu_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 9}
+        - {x: -12, y: 9}
+        - {x: -12, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 13, y: -5}
+        - {x: 13, y: 5}
+    - name: fcikhu_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -12, y: 0}
+        - {x: -12, y: -13}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: -1}
+        - {x: 10, y: 8}
+    - name: fcikhu_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 9}
+        - {x: -12, y: 3}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -10}
+        - {x: 13, y: 4}
+        - {x: 8, y: 9}
+    - name: fcikhu_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -4}
+        - {x: -15, y: -13}
+        - {x: 7, y: -13}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: fcikhu_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -8}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 16, y: -8}
+        - {x: 16, y: 12}
+        - {x: 12, y: 16}
+    - name: fcikhu_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -1}
+        - {x: -10, y: -11}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 16, y: -8}
+        - {x: 16, y: 14}
+        - {x: 15, y: 16}
+    - name: fcikhu_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -15, y: 4}
+        - {x: -15, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 7}
+        - {x: 7, y: 16}
+    - name: fcikhu_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -11}
+        - {x: -10, y: -15}
+        - {x: 12, y: -15}
+        - {x: 15, y: -10}
+        - {x: 15, y: 6}
+        - {x: 11, y: 13}
+    - name: fcikhu_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -13}
+        - {x: -10, y: -14}
+        - {x: 9, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 9}
+        - {x: 10, y: 16}
+    - name: fcikhu_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -12, y: 10}
+        - {x: -12, y: -4}
+        - {x: -9, y: -12}
+        - {x: 12, y: -12}
+        - {x: 13, y: -10}
+        - {x: 13, y: 0}
+        - {x: 3, y: 13}
+    - name: fcikhu_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 13}
+        - {x: -5, y: 13}
+        - {x: -13, y: 7}
+        - {x: -13, y: 2}
+        - {x: -10, y: -12}
+        - {x: -6, y: -13}
+        - {x: 6, y: -13}
+        - {x: 14, y: -7}
+        - {x: 14, y: -3}
+        - {x: 13, y: 1}
+    - name: fcikhu_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -12, y: 10}
+        - {x: -13, y: 9}
+        - {x: -13, y: -4}
+        - {x: -5, y: -13}
+        - {x: 9, y: -13}
+        - {x: 11, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 2}
+        - {x: 2, y: 12}
+    - name: fcikhu_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -16, y: 3}
+        - {x: -16, y: -8}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -15}
+        - {x: 13, y: -7}
+        - {x: 9, y: 5}
+    - name: fcikhu_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -15, y: -3}
+        - {x: -15, y: -15}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -14}
+        - {x: 13, y: 2}
+        - {x: 3, y: 9}
+    - name: fcikhu_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 8}
+        - {x: -6, y: 8}
+        - {x: -9, y: 3}
+        - {x: -14, y: -6}
+        - {x: -14, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 0}
+        - {x: 7, y: 7}
+    - name: fcikhu_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 15}
+        - {x: -16, y: 14}
+        - {x: -16, y: 0}
+        - {x: -6, y: -14}
+        - {x: 10, y: -14}
+        - {x: 16, y: -10}
+        - {x: 16, y: 6}
+        - {x: 3, y: 16}
+    - name: fcikhu_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 0}
+        - {x: -8, y: -15}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: fcikhu_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 15}
+        - {x: -16, y: 13}
+        - {x: -16, y: 4}
+        - {x: -12, y: -6}
+        - {x: -2, y: -14}
+        - {x: 6, y: -14}
+        - {x: 16, y: -11}
+        - {x: 16, y: 9}
+        - {x: 4, y: 16}
+    - name: fcikhu_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -13}
+        - {x: -3, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -6}
+        - {x: 14, y: 5}
+        - {x: 4, y: 15}
+    - name: fcikhu_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -12, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -5}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 14, y: -5}
+        - {x: 14, y: 5}
+        - {x: 12, y: 6}
+    - name: fcikhu_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: -5}
+        - {x: -8, y: -15}
+        - {x: 10, y: -15}
+        - {x: 13, y: -14}
+        - {x: 15, y: -8}
+        - {x: 15, y: 7}
+        - {x: 3, y: 15}
+    - name: fcikhu_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 13}
+        - {x: -9, y: 9}
+        - {x: -13, y: 2}
+        - {x: -13, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 9}
+        - {x: 7, y: 13}
+    - name: fcikhu_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 13}
+        - {x: -9, y: 9}
+        - {x: -14, y: -3}
+        - {x: -14, y: -10}
+        - {x: -13, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: fcikhu_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -13, y: 5}
+        - {x: -13, y: -7}
+        - {x: -5, y: -13}
+        - {x: 7, y: -13}
+        - {x: 13, y: -4}
+        - {x: 13, y: 12}
+    - name: fcikhu_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -10, y: 11}
+        - {x: -16, y: 1}
+        - {x: -16, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 13, y: -4}
+        - {x: 13, y: 0}
+    - name: fcikhu_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -13, y: 3}
+        - {x: -15, y: 1}
+        - {x: -15, y: -15}
+        - {x: -13, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 2}
+        - {x: 0, y: 9}
+    - name: fcikhu_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -14, y: 4}
+        - {x: -14, y: -15}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: -1}
+        - {x: 8, y: 8}
+    - name: fcikhu_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -1, y: 16}
+        - {x: -4, y: 14}
+        - {x: -16, y: 5}
+        - {x: -16, y: -11}
+        - {x: -8, y: -15}
+        - {x: 5, y: -15}
+        - {x: 13, y: -7}
+        - {x: 16, y: 1}
+        - {x: 16, y: 13}
+    - name: fcikhu_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: -14, y: -15}
+        - {x: 10, y: -15}
+        - {x: 16, y: -11}
+        - {x: 16, y: 15}
+        - {x: 13, y: 16}
+    - name: fcikhu_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -13}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+    - name: fcikhu_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 15}
+        - {x: -14, y: 6}
+        - {x: -14, y: -9}
+        - {x: -13, y: -15}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 15}
+    - name: fcikhu_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -10, y: 16}
+        - {x: -14, y: 9}
+        - {x: -14, y: -10}
+        - {x: -10, y: -15}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -4}
+        - {x: 16, y: 5}
+        - {x: 13, y: 12}
+    - name: fcikhu_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 15}
+        - {x: -11, y: 15}
+        - {x: -15, y: 6}
+        - {x: -15, y: -9}
+        - {x: -7, y: -15}
+        - {x: 8, y: -15}
+        - {x: 16, y: -6}
+        - {x: 16, y: 10}
+        - {x: 14, y: 13}
+    - name: fcikhu_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -7, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -9}
+        - {x: 11, y: 3}
+        - {x: 6, y: 13}
+        - {x: -5, y: 13}
+        - {x: -9, y: 11}
+        - {x: -11, y: 2}
+    - name: fcikhu_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -12}
+        - {x: -5, y: -14}
+        - {x: 3, y: -14}
+        - {x: 11, y: -11}
+        - {x: 11, y: 4}
+        - {x: 10, y: 11}
+        - {x: 6, y: 13}
+        - {x: -2, y: 13}
+        - {x: -8, y: 10}
+    - name: fcikhu_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: 3, y: 13}
+        - {x: -2, y: 13}
+        - {x: -7, y: 9}
+        - {x: -11, y: 3}
+        - {x: -11, y: -5}
+        - {x: -8, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -9}
+        - {x: 11, y: -2}
+        - {x: 10, y: 3}
+    - name: fcikhu_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 11}
+        - {x: -6, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: 0}
+        - {x: -11, y: -11}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 7}
+    - name: fcikhu_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 2}
+        - {x: 11, y: 7}
+    - name: fcikhu_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 11}
+        - {x: -7, y: 11}
+        - {x: -13, y: 6}
+        - {x: -13, y: 0}
+        - {x: -12, y: -11}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 7}
+    - name: fcikhu_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -6}
+        - {x: -15, y: -13}
+        - {x: -10, y: -16}
+        - {x: 4, y: -16}
+        - {x: 13, y: -10}
+        - {x: 15, y: -5}
+        - {x: 15, y: 1}
+        - {x: 10, y: 16}
+    - name: fcikhu_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -9}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 10, y: 16}
+    - name: fcikhu_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -13, y: -13}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -7}
+        - {x: 15, y: 16}
+    - name: fcikhu_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 6, y: 13}
+        - {x: 3, y: 15}
+        - {x: -9, y: 15}
+        - {x: -14, y: 8}
+        - {x: -14, y: -12}
+        - {x: -11, y: -16}
+        - {x: 2, y: -16}
+        - {x: 6, y: -15}
+        - {x: 11, y: -7}
+        - {x: 11, y: -2}
+    - name: fcikhu_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -15}
+        - {x: 13, y: -15}
+        - {x: 13, y: 3}
+        - {x: 8, y: 15}
+        - {x: 5, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 14}
+    - name: fcikhu_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: -10, y: 15}
+        - {x: -13, y: 9}
+        - {x: -13, y: -8}
+        - {x: -7, y: -14}
+        - {x: -3, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -15}
+        - {x: 12, y: 3}
+        - {x: 9, y: 14}
+    outline: []
+  spritePackingTag: Pokemon3
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

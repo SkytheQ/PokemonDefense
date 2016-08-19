@@ -1,0 +1,1798 @@
+fileFormatVersion: 2
+guid: c0bf4459ae5c9e347a768aec074ac1ca
+timeCreated: 1471356802
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_0
+    21300002: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_1
+    21300004: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_2
+    21300006: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_3
+    21300008: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_4
+    21300010: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_5
+    21300012: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_6
+    21300014: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_7
+    21300016: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_8
+    21300018: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_9
+    21300020: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_10
+    21300022: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_11
+    21300024: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_12
+    21300026: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_13
+    21300028: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_14
+    21300030: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_15
+    21300032: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_16
+    21300034: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_17
+    21300036: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_18
+    21300038: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_19
+    21300040: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_20
+    21300042: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_21
+    21300044: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_22
+    21300046: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_23
+    21300048: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_24
+    21300050: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_25
+    21300052: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_26
+    21300054: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_27
+    21300056: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_28
+    21300058: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_29
+    21300060: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_30
+    21300062: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_31
+    21300064: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_32
+    21300066: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_33
+    21300068: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_34
+    21300070: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_35
+    21300072: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_36
+    21300074: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_37
+    21300076: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_38
+    21300078: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_39
+    21300080: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_40
+    21300082: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_41
+    21300084: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_42
+    21300086: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_43
+    21300088: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_44
+    21300090: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_45
+    21300092: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_46
+    21300094: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_47
+    21300096: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_48
+    21300098: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_49
+    21300100: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_50
+    21300102: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_51
+    21300104: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_52
+    21300106: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_53
+    21300108: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_54
+    21300110: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_55
+    21300112: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_56
+    21300114: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_57
+    21300116: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_58
+    21300118: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_59
+    21300120: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_60
+    21300122: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_61
+    21300124: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_62
+    21300126: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_63
+    21300128: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_64
+    21300130: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_65
+    21300132: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_66
+    21300134: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_67
+    21300136: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_68
+    21300138: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_69
+    21300140: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_70
+    21300142: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_71
+    21300144: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_72
+    21300146: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_73
+    21300148: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_74
+    21300150: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_75
+    21300152: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_76
+    21300154: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_77
+    21300156: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_78
+    21300158: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_79
+    21300160: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_80
+    21300162: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_81
+    21300164: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_82
+    21300166: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_83
+    21300168: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_84
+    21300170: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_85
+    21300172: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_86
+    21300174: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_87
+    21300176: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_88
+    21300178: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_89
+    21300180: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_90
+    21300182: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_91
+    21300184: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_92
+    21300186: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_93
+    21300188: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_94
+    21300190: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_95
+    21300192: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_96
+    21300194: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_97
+    21300196: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_98
+    21300198: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_99
+    21300200: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_100
+    21300202: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_101
+    21300204: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_102
+    21300206: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_103
+    21300208: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_104
+    21300210: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_105
+    21300212: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_106
+    21300214: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_107
+    21300216: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_108
+    21300218: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_109
+    21300220: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_110
+    21300222: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_111
+    21300224: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_112
+    21300226: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_113
+    21300228: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_114
+    21300230: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_115
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 494
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 494
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 494
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 494
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 493
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 494
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 494
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 495
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 498
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 495
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 493
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 492
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 461
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 460
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 460
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 460
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 459
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 460
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 459
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 462
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 463
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 461
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 459
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 428
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 427
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 427
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 427
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_28
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 426
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 427
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 426
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 429
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 429
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 429
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 427
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 425
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 395
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_37
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 395
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 395
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 395
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 394
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 395
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 395
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_43
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 396
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 398
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_45
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 395
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 393
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 392
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 348
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 348
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 348
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 349
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 349
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 349
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 349
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 317
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_56
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 315
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 315
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 315
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 315
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 284
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 282
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 282
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_64
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 282
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 251
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 251
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 251
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_68
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 249
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 249
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_70
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 249
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 249
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 184
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 25}
+        - {x: -18.5, y: 25}
+        - {x: -20.5, y: 24}
+        - {x: -22.5, y: 22}
+        - {x: -22.5, y: -18}
+        - {x: -15.5, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 22.5, y: -18}
+        - {x: 22.5, y: 14}
+        - {x: 19.5, y: 23}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_73
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 185
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -15.5}
+        - {x: -16, y: -23.5}
+        - {x: 15, y: -23.5}
+        - {x: 23, y: -17.5}
+        - {x: 23, y: 19.5}
+        - {x: 22, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 26}
+        - {x: -23, y: -20}
+        - {x: -14, y: -26}
+        - {x: 16, y: -26}
+        - {x: 23, y: -22}
+        - {x: 23, y: 15}
+        - {x: 13, y: 26}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_75
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 187
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 23.5}
+        - {x: -23, y: 23.5}
+        - {x: -23, y: -16.5}
+        - {x: -10, y: -23.5}
+        - {x: 20, y: -23.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 20.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 188
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -14.5}
+        - {x: -10, y: -23.5}
+        - {x: 22, y: -23.5}
+        - {x: 23, y: -15.5}
+        - {x: 23, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_77
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -23}
+        - {x: 20, y: -23}
+        - {x: 23, y: -15}
+        - {x: 23, y: 22}
+        - {x: 19, y: 23}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_78
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 190
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22.5}
+        - {x: -23, y: -19.5}
+        - {x: -20, y: -22.5}
+        - {x: 13, y: -22.5}
+        - {x: 23, y: -16.5}
+        - {x: 23, y: 22.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_79
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 181
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 26}
+        - {x: -23, y: 25}
+        - {x: -23, y: -16}
+        - {x: -15, y: -26}
+        - {x: 21, y: -26}
+        - {x: 23, y: -25}
+        - {x: 23, y: 14}
+        - {x: 7, y: 26}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 180
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -26, y: 24}
+        - {x: -26, y: -18}
+        - {x: -25, y: -20}
+        - {x: -14, y: -27}
+        - {x: 11, y: -27}
+        - {x: 26, y: -18}
+        - {x: 26, y: 7}
+        - {x: 1, y: 27}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_81
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 183
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22.5}
+        - {x: -26, y: 21.5}
+        - {x: -27, y: 19.5}
+        - {x: -27, y: -2.5}
+        - {x: -15, y: -21.5}
+        - {x: -10, y: -22.5}
+        - {x: 27, y: -22.5}
+        - {x: 27, y: 21.5}
+        - {x: 20, y: 22.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_82
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 183
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 20}
+        - {x: 19, y: 17}
+        - {x: 16, y: 20}
+        - {x: -32, y: 20}
+        - {x: -32, y: 1}
+        - {x: -27, y: -10}
+        - {x: -12, y: -20}
+        - {x: 20, y: -20}
+        - {x: 32, y: -13}
+        - {x: 32, y: 19}
+        - {x: 31, y: 20}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 128
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 23.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -20.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 23.5, y: -18.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 7.5, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_84
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 129
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 24.5}
+        - {x: -23.5, y: 22.5}
+        - {x: -23.5, y: -4.5}
+        - {x: -21.5, y: -6.5}
+        - {x: -21.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 23.5, y: 7.5}
+        - {x: 0.5, y: 24.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 128
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 26}
+        - {x: -23.5, y: -26}
+        - {x: 16.5, y: -26}
+        - {x: 23.5, y: -22}
+        - {x: 23.5, y: 5}
+        - {x: -1.5, y: 26}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_86
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 140
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -23, y: 22}
+        - {x: -23, y: -20}
+        - {x: -21, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 11}
+        - {x: 21, y: 16}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 139
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 23.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -20.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 23.5, y: -18.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 7.5, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 139
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 19.5}
+        - {x: -1, y: 23.5}
+        - {x: -22, y: 23.5}
+        - {x: -24, y: 19.5}
+        - {x: -24, y: -7.5}
+        - {x: -10, y: -23.5}
+        - {x: 9, y: -23.5}
+        - {x: 20, y: -19.5}
+        - {x: 24, y: -15.5}
+        - {x: 24, y: 11.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_89
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 142
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 22}
+        - {x: -23.5, y: 21}
+        - {x: -23.5, y: -20}
+        - {x: -21.5, y: -22}
+        - {x: 23.5, y: -22}
+        - {x: 23.5, y: 21}
+        - {x: 11.5, y: 22}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_90
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 123
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 23.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -20.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 23.5, y: -18.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 7.5, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_91
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 122
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 13.5}
+        - {x: -1.5, y: 26.5}
+        - {x: -25.5, y: 26.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -23.5, y: -23.5}
+        - {x: -21.5, y: -26.5}
+        - {x: 16.5, y: -26.5}
+        - {x: 23.5, y: -18.5}
+        - {x: 25.5, y: -9.5}
+        - {x: 25.5, y: 2.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_92
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 125
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 22.5}
+        - {x: -27.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 27.5, y: -19.5}
+        - {x: 27.5, y: 11.5}
+        - {x: 5.5, y: 22.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_93
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 125
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 16}
+        - {x: 18, y: 8}
+        - {x: -1, y: 21}
+        - {x: -31, y: 21}
+        - {x: -32, y: 20}
+        - {x: -32, y: 1}
+        - {x: -25, y: -21}
+        - {x: 18, y: -21}
+        - {x: 32, y: -15}
+        - {x: 32, y: 12}
+        - {x: 28, y: 18}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_94
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 71
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23.5}
+        - {x: -23.5, y: 18.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 23.5, y: -13.5}
+        - {x: 23.5, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_95
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 72
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 24.5}
+        - {x: -0.5, y: 23.5}
+        - {x: -7.5, y: 18.5}
+        - {x: -6.5, y: 15.5}
+        - {x: -13.5, y: 7.5}
+        - {x: -12.5, y: 7.5}
+        - {x: -16.5, y: 9.5}
+        - {x: -18.5, y: 9.5}
+        - {x: -23.5, y: 6.5}
+        - {x: -23.5, y: -18.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 23.5, y: -21.5}
+        - {x: 23.5, y: 22.5}
+        - {x: 20.5, y: 24.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_96
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 71
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 26}
+        - {x: -23.5, y: 6}
+        - {x: -23.5, y: -20}
+        - {x: -17.5, y: -26}
+        - {x: 23.5, y: -26}
+        - {x: 23.5, y: 26}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_97
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 90
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -20, y: 14}
+        - {x: -23, y: 8}
+        - {x: -23, y: -18}
+        - {x: -20, y: -22}
+        - {x: 22, y: -22}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 89
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23.5}
+        - {x: -23.5, y: 18.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 23.5, y: -13.5}
+        - {x: 23.5, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 89
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 23.5}
+        - {x: -24, y: 15.5}
+        - {x: -24, y: -17.5}
+        - {x: -14, y: -23.5}
+        - {x: 22, y: -23.5}
+        - {x: 24, y: -18.5}
+        - {x: 24, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_100
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 92
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 22}
+        - {x: -20.5, y: 15}
+        - {x: -23.5, y: 10}
+        - {x: -23.5, y: -18}
+        - {x: -19.5, y: -22}
+        - {x: 20.5, y: -22}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 18}
+        - {x: 19.5, y: 22}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_101
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 66
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23.5}
+        - {x: -23.5, y: 18.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 23.5, y: -13.5}
+        - {x: 23.5, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_102
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 26.5}
+        - {x: -25.5, y: 9.5}
+        - {x: -25.5, y: -15.5}
+        - {x: -21.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 20.5}
+        - {x: 23.5, y: 26.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_103
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 69
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22.5}
+        - {x: -26.5, y: 21.5}
+        - {x: -27.5, y: 15.5}
+        - {x: -27.5, y: -15.5}
+        - {x: -19.5, y: -22.5}
+        - {x: 19.5, y: -22.5}
+        - {x: 27.5, y: -2.5}
+        - {x: 27.5, y: 22.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_104
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 69
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -13}
+        - {x: -25, y: -20}
+        - {x: -18, y: -21}
+        - {x: 16, y: -21}
+        - {x: 18, y: -18}
+        - {x: 31, y: -1}
+        - {x: 32, y: 3}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23.5}
+        - {x: -23, y: 22.5}
+        - {x: -23, y: -15.5}
+        - {x: -21, y: -23.5}
+        - {x: 12, y: -23.5}
+        - {x: 23, y: -12.5}
+        - {x: 23, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_106
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 25}
+        - {x: -21.5, y: 23}
+        - {x: -22.5, y: 18}
+        - {x: -22.5, y: -14}
+        - {x: -16.5, y: -24}
+        - {x: -15.5, y: -25}
+        - {x: 22.5, y: -25}
+        - {x: 22.5, y: 25}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_107
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 26}
+        - {x: -22, y: 19}
+        - {x: -23, y: 15}
+        - {x: -23, y: -21}
+        - {x: -19, y: -26}
+        - {x: 11, y: -26}
+        - {x: 23, y: -22}
+        - {x: 23, y: 15}
+        - {x: 19, y: 26}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_108
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 39
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 23.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -14.5}
+        - {x: -21, y: -20.5}
+        - {x: -18, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 23, y: -15.5}
+        - {x: 23, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_109
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 40
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -21.5}
+        - {x: -21, y: -23.5}
+        - {x: 13, y: -23.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 23.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 42
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -23, y: 20}
+        - {x: -23, y: -23}
+        - {x: 23, y: -23}
+        - {x: 23, y: 20}
+        - {x: 19, y: 23}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_111
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 42
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22.5}
+        - {x: -23, y: 16.5}
+        - {x: -23, y: -14.5}
+        - {x: -12, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 22.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_112
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 8
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 26}
+        - {x: -23, y: 16}
+        - {x: -23, y: -26}
+        - {x: 10, y: -26}
+        - {x: 23, y: -22}
+        - {x: 23, y: 9}
+        - {x: 20, y: 26}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_113
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 7
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 27}
+        - {x: -26, y: 13}
+        - {x: -26, y: -25}
+        - {x: -23, y: -27}
+        - {x: 19, y: -27}
+        - {x: 23, y: -26}
+        - {x: 26, y: -19}
+        - {x: 26, y: 18}
+        - {x: 23, y: 27}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_114
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 11
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 22.5}
+        - {x: -27, y: -18.5}
+        - {x: -26, y: -22.5}
+        - {x: 7, y: -22.5}
+        - {x: 27, y: -4.5}
+        - {x: 27, y: 20.5}
+        - {x: 26, y: 22.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Larvitar Pupitar and Tyranitar_115
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 11
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -17, y: 14}
+        - {x: -19, y: 8}
+        - {x: -19, y: 6}
+        - {x: -19, y: 16}
+        - {x: -22, y: 20}
+        - {x: -32, y: 20}
+        - {x: -32, y: -5}
+        - {x: -19, y: -20}
+        - {x: 1, y: -20}
+        - {x: 32, y: -9}
+        - {x: 32, y: 20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

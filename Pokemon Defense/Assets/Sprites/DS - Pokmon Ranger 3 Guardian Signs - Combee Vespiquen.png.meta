@@ -1,0 +1,1699 @@
+fileFormatVersion: 2
+guid: e9f336267bb727a4eaed64bffdd81a6b
+timeCreated: 1471357261
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_0
+    21300002: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_1
+    21300004: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_2
+    21300006: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_3
+    21300008: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_4
+    21300010: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_5
+    21300012: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_6
+    21300014: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_7
+    21300016: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_8
+    21300018: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_9
+    21300020: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_10
+    21300022: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_11
+    21300024: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_12
+    21300026: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_13
+    21300028: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_14
+    21300030: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_15
+    21300032: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_16
+    21300034: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_17
+    21300036: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_18
+    21300038: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_19
+    21300040: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_20
+    21300042: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_21
+    21300044: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_22
+    21300046: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_23
+    21300048: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_24
+    21300050: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_25
+    21300052: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_26
+    21300054: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_27
+    21300056: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_28
+    21300058: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_29
+    21300060: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_30
+    21300062: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_31
+    21300064: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_32
+    21300066: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_33
+    21300068: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_34
+    21300070: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_35
+    21300072: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_36
+    21300074: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_37
+    21300076: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_38
+    21300078: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_39
+    21300080: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_40
+    21300082: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_41
+    21300084: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_42
+    21300086: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_43
+    21300088: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_44
+    21300090: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_45
+    21300092: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_46
+    21300094: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_47
+    21300096: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_48
+    21300098: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_49
+    21300100: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_50
+    21300102: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_51
+    21300104: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_52
+    21300106: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_53
+    21300108: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_54
+    21300110: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_55
+    21300112: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_56
+    21300114: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_57
+    21300116: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_58
+    21300118: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_59
+    21300120: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_60
+    21300122: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_61
+    21300124: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_62
+    21300126: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_63
+    21300128: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_64
+    21300130: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_65
+    21300132: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_66
+    21300134: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_67
+    21300136: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_68
+    21300138: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_69
+    21300140: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_70
+    21300142: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_71
+    21300144: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_72
+    21300146: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_73
+    21300148: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_74
+    21300150: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_75
+    21300152: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_76
+    21300154: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_77
+    21300156: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_78
+    21300158: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_79
+    21300160: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_80
+    21300162: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_81
+    21300164: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_82
+    21300166: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_83
+    21300168: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_84
+    21300170: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_85
+    21300172: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_86
+    21300174: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_87
+    21300176: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_88
+    21300178: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_89
+    21300180: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_90
+    21300182: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_91
+    21300184: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_92
+    21300186: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_93
+    21300188: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_94
+    21300190: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_95
+    21300192: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_96
+    21300194: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_97
+    21300196: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_98
+    21300198: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_99
+    21300200: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_100
+    21300202: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_101
+    21300204: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_102
+    21300206: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_103
+    21300208: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_104
+    21300210: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_105
+    21300212: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_106
+    21300214: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_107
+    21300216: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_108
+    21300218: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_109
+    21300220: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_110
+    21300222: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_111
+    21300224: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_112
+    21300226: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_113
+    21300228: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_114
+    21300230: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_115
+    21300232: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_116
+    21300234: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_117
+    21300236: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_118
+    21300238: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_119
+    21300240: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_120
+    21300242: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_121
+    21300244: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_122
+    21300246: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_123
+    21300248: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_124
+    21300250: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_125
+    21300252: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_126
+    21300254: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_127
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 274
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 272
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 273
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 273
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 274
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 271
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 271
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 267
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 270
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 237
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 237
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 240
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 237
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 238
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 236
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 235
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 232
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 234
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 206
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 204
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 204
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 207
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 204
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 205
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 203
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 202
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 199
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_29
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 201
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 173
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 171
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 174
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 174
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 175
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 168
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 165
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 169
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 169
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 125
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 126
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 126
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 126
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 126
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 125
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_47
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 126
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 126
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 121
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 121
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 121
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_52
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 128
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 129
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_54
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 129
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_55
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 131
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_56
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 124
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_57
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 119
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18.5}
+        - {x: -19, y: 9.5}
+        - {x: -19, y: -10.5}
+        - {x: -15, y: -18.5}
+        - {x: 7, y: -18.5}
+        - {x: 19, y: -7.5}
+        - {x: 19, y: 18.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_58
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 119
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -19, y: 10}
+        - {x: -19, y: -12}
+        - {x: -17, y: -18}
+        - {x: 5, y: -18}
+        - {x: 19, y: -2}
+        - {x: 19, y: 18}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_59
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 118
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -18, y: 9}
+        - {x: -18, y: -10}
+        - {x: -11, y: -17}
+        - {x: 6, y: -17}
+        - {x: 11, y: -13}
+        - {x: 18, y: 2}
+        - {x: 18, y: 10}
+        - {x: 11, y: 17}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_60
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 119
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -19, y: 10}
+        - {x: -19, y: -12}
+        - {x: -17, y: -18}
+        - {x: 5, y: -18}
+        - {x: 19, y: -2}
+        - {x: 19, y: 18}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_61
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 120
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 89
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 90
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_65
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 90
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 90
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 89
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_69
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_70
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 90
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_71
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 5}
+        - {x: 9, y: 16}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_72
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -13, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 3}
+        - {x: 13, y: 14}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 10, y: 16}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_74
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 86
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_75
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 87
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_76
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 87
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_77
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 89
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_78
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 84
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_79
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 86
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_80
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 86
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_81
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 85
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_82
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 86
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_83
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 79
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_85
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 51
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_86
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 51
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_87
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 50
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_88
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_89
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 50
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_90
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 48
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 49
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_94
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -14, y: 11}
+        - {x: -16, y: 2}
+        - {x: -16, y: -11}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 10}
+        - {x: 9, y: 16}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_95
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -15}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 12, y: 16}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_96
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 43
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_97
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 44
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_98
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 44
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_99
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 46
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_100
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 41
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_101
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 49
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_102
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 49
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_103
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 48
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_104
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 49
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_105
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 42
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_107
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_108
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_109
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 9
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_110
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_111
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 9
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_112
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 7
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_113
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_114
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_115
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 11
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_116
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 11
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_117
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 11
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_118
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 7
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_119
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 8
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_120
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 8
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_121
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 10
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_122
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 3
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_123
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 4
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18.5}
+        - {x: -19, y: -5.5}
+        - {x: -13, y: -18.5}
+        - {x: 17, y: -18.5}
+        - {x: 19, y: -10.5}
+        - {x: 19, y: 4.5}
+        - {x: 5, y: 18.5}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_124
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 4
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: 1}
+        - {x: -8, y: -16}
+        - {x: -4, y: -18}
+        - {x: 11, y: -18}
+        - {x: 19, y: -12}
+        - {x: 19, y: 8}
+        - {x: 8, y: 18}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_125
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 3
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 17}
+        - {x: -12, y: 17}
+        - {x: -18, y: 11}
+        - {x: -18, y: 0}
+        - {x: -14, y: -17}
+        - {x: 17, y: -17}
+        - {x: 18, y: -14}
+        - {x: 18, y: 6}
+        - {x: 14, y: 15}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_126
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 4
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: 1}
+        - {x: -8, y: -16}
+        - {x: -4, y: -18}
+        - {x: 11, y: -18}
+        - {x: 19, y: -12}
+        - {x: 19, y: 8}
+        - {x: 8, y: 18}
+    - name: DS - Pokmon Ranger 3 Guardian Signs - Combee Vespiquen_127
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 5
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

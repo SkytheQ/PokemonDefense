@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: b4ca02ff9696eb2438c77008502a017e
+timeCreated: 1470488667
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: famill14-14dad57_0
+    21300002: famill14-14dad57_1
+    21300004: famill14-14dad57_2
+    21300006: famill14-14dad57_3
+    21300008: famill14-14dad57_4
+    21300010: famill14-14dad57_5
+    21300012: famill14-14dad57_6
+    21300014: famill14-14dad57_7
+    21300016: famill14-14dad57_8
+    21300018: famill14-14dad57_9
+    21300020: famill14-14dad57_10
+    21300022: famill14-14dad57_11
+    21300024: famill14-14dad57_12
+    21300026: famill14-14dad57_13
+    21300028: famill14-14dad57_14
+    21300030: famill14-14dad57_15
+    21300032: famill14-14dad57_16
+    21300034: famill14-14dad57_17
+    21300036: famill14-14dad57_18
+    21300038: famill14-14dad57_19
+    21300040: famill14-14dad57_20
+    21300042: famill14-14dad57_21
+    21300044: famill14-14dad57_22
+    21300046: famill14-14dad57_23
+    21300048: famill14-14dad57_24
+    21300050: famill14-14dad57_25
+    21300052: famill14-14dad57_26
+    21300054: famill14-14dad57_27
+    21300056: famill14-14dad57_28
+    21300058: famill14-14dad57_29
+    21300060: famill14-14dad57_30
+    21300062: famill14-14dad57_31
+    21300064: famill14-14dad57_32
+    21300066: famill14-14dad57_33
+    21300068: famill14-14dad57_34
+    21300070: famill14-14dad57_35
+    21300072: famill14-14dad57_36
+    21300074: famill14-14dad57_37
+    21300076: famill14-14dad57_38
+    21300078: famill14-14dad57_39
+    21300080: famill14-14dad57_40
+    21300082: famill14-14dad57_41
+    21300084: famill14-14dad57_42
+    21300086: famill14-14dad57_43
+    21300088: famill14-14dad57_44
+    21300090: famill14-14dad57_45
+    21300092: famill14-14dad57_46
+    21300094: famill14-14dad57_47
+    21300096: famill14-14dad57_48
+    21300098: famill14-14dad57_49
+    21300100: famill14-14dad57_50
+    21300102: famill14-14dad57_51
+    21300104: famill14-14dad57_52
+    21300106: famill14-14dad57_53
+    21300108: famill14-14dad57_54
+    21300110: famill14-14dad57_55
+    21300112: famill14-14dad57_56
+    21300114: famill14-14dad57_57
+    21300116: famill14-14dad57_58
+    21300118: famill14-14dad57_59
+    21300120: famill14-14dad57_60
+    21300122: famill14-14dad57_61
+    21300124: famill14-14dad57_62
+    21300126: famill14-14dad57_63
+    21300128: famill14-14dad57_64
+    21300130: famill14-14dad57_65
+    21300132: famill14-14dad57_66
+    21300134: famill14-14dad57_67
+    21300136: famill14-14dad57_68
+    21300138: famill14-14dad57_69
+    21300140: famill14-14dad57_70
+    21300142: famill14-14dad57_71
+    21300144: famill14-14dad57_72
+    21300146: famill14-14dad57_73
+    21300148: famill14-14dad57_74
+    21300150: famill14-14dad57_75
+    21300152: famill14-14dad57_76
+    21300154: famill14-14dad57_77
+    21300156: famill14-14dad57_78
+    21300158: famill14-14dad57_79
+    21300160: famill14-14dad57_80
+    21300162: famill14-14dad57_81
+    21300164: famill14-14dad57_82
+    21300166: famill14-14dad57_83
+    21300168: famill14-14dad57_84
+    21300170: famill14-14dad57_85
+    21300172: famill14-14dad57_86
+    21300174: famill14-14dad57_87
+    21300176: famill14-14dad57_88
+    21300178: famill14-14dad57_89
+    21300180: famill14-14dad57_90
+    21300182: famill14-14dad57_91
+    21300184: famill14-14dad57_92
+    21300186: famill14-14dad57_93
+    21300188: famill14-14dad57_94
+    21300190: famill14-14dad57_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: famill14-14dad57_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 268
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 263
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 264
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 265
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 267
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 266
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 264
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 264
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 262
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 263
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 265
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 263
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 229
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 228
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 228
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 226
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 226
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 226
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 228
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 229
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 229
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 232
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 231
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 235
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 194
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 193
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 195
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 194
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 195
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 197
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 197
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 201
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 199
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 203
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 154
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 156
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 158
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 153
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 151
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 152
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 154
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 156
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 153
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 158
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 157
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 113
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 115
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 114
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 115
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 116
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 115
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 115
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 117
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_56
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 116
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_57
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 122
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_58
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 121
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 122
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 82
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 83
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 82
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_65
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 83
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 84
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_67
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 83
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_68
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 82
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 85
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_70
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 87
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_71
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 86
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 51
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_75
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 53
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 53
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_79
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 51
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_80
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 51
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_81
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 52
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_82
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 53
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_83
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 54
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 13
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_86
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 13
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_87
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 14
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 15}
+        - {x: -8, y: 15}
+        - {x: -9, y: 14}
+        - {x: -9, y: 4}
+        - {x: -8, y: -12}
+        - {x: -3, y: -16}
+        - {x: 7, y: -16}
+        - {x: 11, y: 0}
+        - {x: 11, y: 13}
+    - name: famill14-14dad57_88
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 14
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16}
+        - {x: -9.5, y: 0}
+        - {x: -7.5, y: -12}
+        - {x: -2.5, y: -13}
+        - {x: 6.5, y: -13}
+        - {x: 8.5, y: -11}
+        - {x: 11.5, y: 0}
+        - {x: 11.5, y: 16}
+    - name: famill14-14dad57_89
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -9}
+        - {x: -11, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -7}
+        - {x: 5, y: 16}
+    - name: famill14-14dad57_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 17
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_92
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 16
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 19
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_94
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 19
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: famill14-14dad57_95
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 20
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: Pokemon4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
