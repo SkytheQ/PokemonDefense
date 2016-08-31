@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f5ab429d7260ea547a24f0b4a4b8cad6
-timeCreated: 1471356784
+timeCreated: 1471971118
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -245,8 +245,8 @@ TextureImporter:
         y: 670
         width: 24
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_1
@@ -256,8 +256,8 @@ TextureImporter:
         y: 670
         width: 24
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_2
@@ -267,8 +267,8 @@ TextureImporter:
         y: 670
         width: 24
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_3
@@ -278,8 +278,8 @@ TextureImporter:
         y: 670
         width: 24
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_4
@@ -289,8 +289,8 @@ TextureImporter:
         y: 670
         width: 23
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_5
@@ -300,8 +300,8 @@ TextureImporter:
         y: 670
         width: 23
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_6
@@ -311,8 +311,8 @@ TextureImporter:
         y: 667
         width: 24
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_7
@@ -322,8 +322,8 @@ TextureImporter:
         y: 671
         width: 27
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_8
@@ -333,8 +333,8 @@ TextureImporter:
         y: 669
         width: 25
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_9
@@ -344,8 +344,8 @@ TextureImporter:
         y: 666
         width: 24
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_10
@@ -355,8 +355,8 @@ TextureImporter:
         y: 665
         width: 24
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_11
@@ -366,8 +366,8 @@ TextureImporter:
         y: 665
         width: 25
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_12
@@ -377,8 +377,8 @@ TextureImporter:
         y: 668
         width: 26
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_13
@@ -388,8 +388,8 @@ TextureImporter:
         y: 668
         width: 27
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_14
@@ -399,8 +399,8 @@ TextureImporter:
         y: 668
         width: 27
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_15
@@ -410,8 +410,8 @@ TextureImporter:
         y: 663
         width: 24
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_16
@@ -421,8 +421,8 @@ TextureImporter:
         y: 665
         width: 24
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_17
@@ -432,8 +432,8 @@ TextureImporter:
         y: 628
         width: 24
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_18
@@ -443,8 +443,8 @@ TextureImporter:
         y: 628
         width: 24
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_19
@@ -454,8 +454,8 @@ TextureImporter:
         y: 628
         width: 24
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_20
@@ -465,8 +465,8 @@ TextureImporter:
         y: 628
         width: 24
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_21
@@ -476,8 +476,8 @@ TextureImporter:
         y: 628
         width: 23
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_22
@@ -487,8 +487,8 @@ TextureImporter:
         y: 628
         width: 23
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_23
@@ -498,8 +498,8 @@ TextureImporter:
         y: 621
         width: 24
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_24
@@ -509,8 +509,8 @@ TextureImporter:
         y: 625
         width: 27
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_25
@@ -520,8 +520,8 @@ TextureImporter:
         y: 623
         width: 25
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_26
@@ -531,8 +531,8 @@ TextureImporter:
         y: 620
         width: 24
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_27
@@ -542,8 +542,8 @@ TextureImporter:
         y: 618
         width: 24
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_28
@@ -553,8 +553,8 @@ TextureImporter:
         y: 618
         width: 25
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_29
@@ -564,8 +564,8 @@ TextureImporter:
         y: 621
         width: 26
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_30
@@ -575,8 +575,8 @@ TextureImporter:
         y: 621
         width: 27
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_31
@@ -586,8 +586,8 @@ TextureImporter:
         y: 621
         width: 27
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_32
@@ -597,8 +597,8 @@ TextureImporter:
         y: 616
         width: 24
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_33
@@ -608,8 +608,8 @@ TextureImporter:
         y: 618
         width: 24
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_34
@@ -619,8 +619,8 @@ TextureImporter:
         y: 586
         width: 23
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_35
@@ -630,8 +630,8 @@ TextureImporter:
         y: 586
         width: 23
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_36
@@ -641,8 +641,8 @@ TextureImporter:
         y: 586
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_37
@@ -652,8 +652,8 @@ TextureImporter:
         y: 586
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_38
@@ -663,8 +663,8 @@ TextureImporter:
         y: 586
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_39
@@ -674,8 +674,8 @@ TextureImporter:
         y: 586
         width: 24
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_40
@@ -685,8 +685,8 @@ TextureImporter:
         y: 574
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_41
@@ -696,8 +696,8 @@ TextureImporter:
         y: 576
         width: 26
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_42
@@ -707,8 +707,8 @@ TextureImporter:
         y: 577
         width: 25
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_43
@@ -718,8 +718,8 @@ TextureImporter:
         y: 575
         width: 23
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_44
@@ -729,8 +729,8 @@ TextureImporter:
         y: 572
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_45
@@ -740,8 +740,8 @@ TextureImporter:
         y: 572
         width: 25
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_46
@@ -751,8 +751,8 @@ TextureImporter:
         y: 572
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_47
@@ -762,8 +762,8 @@ TextureImporter:
         y: 573
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_48
@@ -773,8 +773,8 @@ TextureImporter:
         y: 573
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_49
@@ -784,8 +784,8 @@ TextureImporter:
         y: 574
         width: 26
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_50
@@ -795,8 +795,8 @@ TextureImporter:
         y: 573
         width: 26
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_51
@@ -806,8 +806,8 @@ TextureImporter:
         y: 544
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_52
@@ -817,8 +817,8 @@ TextureImporter:
         y: 544
         width: 23
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_53
@@ -828,8 +828,8 @@ TextureImporter:
         y: 544
         width: 23
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_54
@@ -839,8 +839,8 @@ TextureImporter:
         y: 544
         width: 23
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_55
@@ -850,8 +850,8 @@ TextureImporter:
         y: 544
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_56
@@ -861,8 +861,8 @@ TextureImporter:
         y: 544
         width: 24
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_57
@@ -872,8 +872,8 @@ TextureImporter:
         y: 528
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_58
@@ -883,8 +883,8 @@ TextureImporter:
         y: 530
         width: 26
         height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_59
@@ -894,8 +894,8 @@ TextureImporter:
         y: 531
         width: 25
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_60
@@ -905,8 +905,8 @@ TextureImporter:
         y: 529
         width: 23
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_61
@@ -916,8 +916,8 @@ TextureImporter:
         y: 526
         width: 24
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_62
@@ -927,8 +927,8 @@ TextureImporter:
         y: 526
         width: 25
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_63
@@ -938,8 +938,8 @@ TextureImporter:
         y: 526
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_64
@@ -949,8 +949,8 @@ TextureImporter:
         y: 527
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_65
@@ -960,8 +960,8 @@ TextureImporter:
         y: 527
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_66
@@ -971,8 +971,8 @@ TextureImporter:
         y: 528
         width: 26
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_67
@@ -982,8 +982,8 @@ TextureImporter:
         y: 527
         width: 26
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_68
@@ -993,8 +993,8 @@ TextureImporter:
         y: 449
         width: 31
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_69
@@ -1004,8 +1004,8 @@ TextureImporter:
         y: 449
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_70
@@ -1015,8 +1015,8 @@ TextureImporter:
         y: 449
         width: 31
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_71
@@ -1026,8 +1026,8 @@ TextureImporter:
         y: 449
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_72
@@ -1037,8 +1037,8 @@ TextureImporter:
         y: 447
         width: 31
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_73
@@ -1048,8 +1048,8 @@ TextureImporter:
         y: 449
         width: 32
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_74
@@ -1059,8 +1059,8 @@ TextureImporter:
         y: 448
         width: 31
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_75
@@ -1070,8 +1070,8 @@ TextureImporter:
         y: 445
         width: 30
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_76
@@ -1081,8 +1081,8 @@ TextureImporter:
         y: 445
         width: 31
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_77
@@ -1092,8 +1092,8 @@ TextureImporter:
         y: 445
         width: 31
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_78
@@ -1103,8 +1103,8 @@ TextureImporter:
         y: 449
         width: 32
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_79
@@ -1114,8 +1114,8 @@ TextureImporter:
         y: 449
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_80
@@ -1125,8 +1125,8 @@ TextureImporter:
         y: 449
         width: 33
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_81
@@ -1136,8 +1136,8 @@ TextureImporter:
         y: 445
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_82
@@ -1147,8 +1147,8 @@ TextureImporter:
         y: 445
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_83
@@ -1158,8 +1158,8 @@ TextureImporter:
         y: 407
         width: 31
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_84
@@ -1169,8 +1169,8 @@ TextureImporter:
         y: 407
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_85
@@ -1180,8 +1180,8 @@ TextureImporter:
         y: 407
         width: 31
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_86
@@ -1191,8 +1191,8 @@ TextureImporter:
         y: 407
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_87
@@ -1202,8 +1202,8 @@ TextureImporter:
         y: 401
         width: 31
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_88
@@ -1213,8 +1213,8 @@ TextureImporter:
         y: 403
         width: 32
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_89
@@ -1224,8 +1224,8 @@ TextureImporter:
         y: 402
         width: 31
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_90
@@ -1235,8 +1235,8 @@ TextureImporter:
         y: 399
         width: 30
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_91
@@ -1246,8 +1246,8 @@ TextureImporter:
         y: 398
         width: 31
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_92
@@ -1257,8 +1257,8 @@ TextureImporter:
         y: 398
         width: 31
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_93
@@ -1268,8 +1268,8 @@ TextureImporter:
         y: 402
         width: 32
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_94
@@ -1279,8 +1279,8 @@ TextureImporter:
         y: 402
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_95
@@ -1290,8 +1290,8 @@ TextureImporter:
         y: 402
         width: 33
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_96
@@ -1301,8 +1301,8 @@ TextureImporter:
         y: 398
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_97
@@ -1312,8 +1312,8 @@ TextureImporter:
         y: 398
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_98
@@ -1323,8 +1323,8 @@ TextureImporter:
         y: 367
         width: 31
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_99
@@ -1334,8 +1334,8 @@ TextureImporter:
         y: 367
         width: 31
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_100
@@ -1345,8 +1345,8 @@ TextureImporter:
         y: 367
         width: 31
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_101
@@ -1356,8 +1356,8 @@ TextureImporter:
         y: 367
         width: 31
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_102
@@ -1367,8 +1367,8 @@ TextureImporter:
         y: 354
         width: 31
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_103
@@ -1378,8 +1378,8 @@ TextureImporter:
         y: 357
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_104
@@ -1389,8 +1389,8 @@ TextureImporter:
         y: 358
         width: 31
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_105
@@ -1400,8 +1400,8 @@ TextureImporter:
         y: 356
         width: 30
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_106
@@ -1411,8 +1411,8 @@ TextureImporter:
         y: 346
         width: 31
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_107
@@ -1422,8 +1422,8 @@ TextureImporter:
         y: 346
         width: 31
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_108
@@ -1433,8 +1433,8 @@ TextureImporter:
         y: 346
         width: 28
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_109
@@ -1444,8 +1444,8 @@ TextureImporter:
         y: 347
         width: 27
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_110
@@ -1455,8 +1455,8 @@ TextureImporter:
         y: 347
         width: 29
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_111
@@ -1466,8 +1466,8 @@ TextureImporter:
         y: 347
         width: 31
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_112
@@ -1477,8 +1477,8 @@ TextureImporter:
         y: 347
         width: 30
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_113
@@ -1488,8 +1488,8 @@ TextureImporter:
         y: 324
         width: 31
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_114
@@ -1499,8 +1499,8 @@ TextureImporter:
         y: 324
         width: 31
         height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_115
@@ -1510,8 +1510,8 @@ TextureImporter:
         y: 324
         width: 31
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_116
@@ -1521,8 +1521,8 @@ TextureImporter:
         y: 324
         width: 31
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_117
@@ -1532,8 +1532,8 @@ TextureImporter:
         y: 307
         width: 31
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_118
@@ -1543,8 +1543,8 @@ TextureImporter:
         y: 310
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_119
@@ -1554,8 +1554,8 @@ TextureImporter:
         y: 311
         width: 31
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_120
@@ -1565,8 +1565,8 @@ TextureImporter:
         y: 309
         width: 30
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_121
@@ -1576,8 +1576,8 @@ TextureImporter:
         y: 293
         width: 31
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_122
@@ -1587,8 +1587,8 @@ TextureImporter:
         y: 292
         width: 31
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_123
@@ -1598,8 +1598,8 @@ TextureImporter:
         y: 292
         width: 31
         height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_124
@@ -1609,8 +1609,8 @@ TextureImporter:
         y: 292
         width: 28
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_125
@@ -1620,8 +1620,8 @@ TextureImporter:
         y: 293
         width: 27
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_126
@@ -1631,8 +1631,8 @@ TextureImporter:
         y: 293
         width: 29
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_127
@@ -1642,8 +1642,8 @@ TextureImporter:
         y: 293
         width: 30
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_128
@@ -1653,19 +1653,19 @@ TextureImporter:
         y: 209
         width: 45
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 14.5, y: 21}
-        - {x: -11.5, y: 21}
-        - {x: -19.5, y: 16}
-        - {x: -22.5, y: 9}
-        - {x: -22.5, y: -20}
-        - {x: -18.5, y: -21}
-        - {x: 22.5, y: -21}
-        - {x: 22.5, y: 12}
-        - {x: 21.5, y: 18}
+      - - {x: 14.5, y: 29.399994}
+        - {x: -11.5, y: 29.399994}
+        - {x: -19.5, y: 24.399994}
+        - {x: -22.5, y: 17.399994}
+        - {x: -22.5, y: -11.600006}
+        - {x: -18.5, y: -12.600006}
+        - {x: 22.5, y: -12.600006}
+        - {x: 22.5, y: 20.399994}
+        - {x: 21.5, y: 26.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_129
       rect:
         serializedVersion: 2
@@ -1673,16 +1673,16 @@ TextureImporter:
         y: 209
         width: 46
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 21}
-        - {x: -23, y: 19}
-        - {x: -23, y: -21}
-        - {x: 23, y: -21}
-        - {x: 23, y: 11}
-        - {x: 21, y: 21}
+      - - {x: -16, y: 29.399994}
+        - {x: -23, y: 27.399994}
+        - {x: -23, y: -12.600006}
+        - {x: 23, y: -12.600006}
+        - {x: 23, y: 19.399994}
+        - {x: 21, y: 29.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_130
       rect:
         serializedVersion: 2
@@ -1690,17 +1690,17 @@ TextureImporter:
         y: 209
         width: 45
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13.5, y: 20.5}
-        - {x: -18.5, y: 14.5}
-        - {x: -22.5, y: 4.5}
-        - {x: -22.5, y: -20.5}
-        - {x: 22.5, y: -20.5}
-        - {x: 22.5, y: 11.5}
-        - {x: 20.5, y: 20.5}
+      - - {x: -13.5, y: 28.699997}
+        - {x: -18.5, y: 22.699997}
+        - {x: -22.5, y: 12.699997}
+        - {x: -22.5, y: -12.300003}
+        - {x: 22.5, y: -12.300003}
+        - {x: 22.5, y: 19.699997}
+        - {x: 20.5, y: 28.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_131
       rect:
         serializedVersion: 2
@@ -1708,18 +1708,18 @@ TextureImporter:
         y: 209
         width: 45
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 15.5, y: 20.5}
-        - {x: -19.5, y: 20.5}
-        - {x: -22.5, y: 10.5}
-        - {x: -22.5, y: -20.5}
-        - {x: 20.5, y: -20.5}
-        - {x: 22.5, y: -19.5}
-        - {x: 22.5, y: 13.5}
-        - {x: 21.5, y: 18.5}
+      - - {x: 15.5, y: 28.699997}
+        - {x: -19.5, y: 28.699997}
+        - {x: -22.5, y: 18.699997}
+        - {x: -22.5, y: -12.300003}
+        - {x: 20.5, y: -12.300003}
+        - {x: 22.5, y: -11.300003}
+        - {x: 22.5, y: 21.699997}
+        - {x: 21.5, y: 26.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_132
       rect:
         serializedVersion: 2
@@ -1727,16 +1727,16 @@ TextureImporter:
         y: 210
         width: 45
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13.5, y: 20.5}
-        - {x: -22.5, y: 7.5}
-        - {x: -22.5, y: -20.5}
-        - {x: 22.5, y: -20.5}
-        - {x: 22.5, y: 11.5}
-        - {x: 12.5, y: 20.5}
+      - - {x: -13.5, y: 28.699997}
+        - {x: -22.5, y: 15.699997}
+        - {x: -22.5, y: -12.300003}
+        - {x: 22.5, y: -12.300003}
+        - {x: 22.5, y: 19.699997}
+        - {x: 12.5, y: 28.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_133
       rect:
         serializedVersion: 2
@@ -1744,18 +1744,18 @@ TextureImporter:
         y: 206
         width: 47
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 15.5, y: 21.5}
-        - {x: -20.5, y: 21.5}
-        - {x: -23.5, y: 15.5}
-        - {x: -23.5, y: -21.5}
-        - {x: 20.5, y: -21.5}
-        - {x: 23.5, y: -18.5}
-        - {x: 23.5, y: -0.5}
-        - {x: 20.5, y: 10.5}
+      - - {x: 15.5, y: 30.100006}
+        - {x: -20.5, y: 30.100006}
+        - {x: -23.5, y: 24.100006}
+        - {x: -23.5, y: -12.899994}
+        - {x: 20.5, y: -12.899994}
+        - {x: 23.5, y: -9.899994}
+        - {x: 23.5, y: 8.100006}
+        - {x: 20.5, y: 19.100006}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_134
       rect:
         serializedVersion: 2
@@ -1763,18 +1763,18 @@ TextureImporter:
         y: 208
         width: 46
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -23, y: -18.5}
-        - {x: -21, y: -21.5}
-        - {x: 17, y: -21.5}
-        - {x: 23, y: -19.5}
-        - {x: 23, y: 8.5}
-        - {x: 11, y: 21.5}
-        - {x: -14, y: 21.5}
-        - {x: -23, y: 17.5}
+      - - {x: -23, y: -9.899994}
+        - {x: -21, y: -12.899994}
+        - {x: 17, y: -12.899994}
+        - {x: 23, y: -10.899994}
+        - {x: 23, y: 17.100006}
+        - {x: 11, y: 30.100006}
+        - {x: -14, y: 30.100006}
+        - {x: -23, y: 26.100006}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_135
       rect:
         serializedVersion: 2
@@ -1782,17 +1782,17 @@ TextureImporter:
         y: 208
         width: 44
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 18, y: 20.5}
-        - {x: -15, y: 20.5}
-        - {x: -19, y: 16.5}
-        - {x: -22, y: 9.5}
-        - {x: -22, y: -20.5}
-        - {x: 22, y: -20.5}
-        - {x: 22, y: 9.5}
+      - - {x: 18, y: 28.699997}
+        - {x: -15, y: 28.699997}
+        - {x: -19, y: 24.699997}
+        - {x: -22, y: 17.699997}
+        - {x: -22, y: -12.300003}
+        - {x: 22, y: -12.300003}
+        - {x: 22, y: 17.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_136
       rect:
         serializedVersion: 2
@@ -1800,19 +1800,19 @@ TextureImporter:
         y: 198
         width: 45
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 14.5, y: 21}
-        - {x: -11.5, y: 21}
-        - {x: -19.5, y: 16}
-        - {x: -22.5, y: 9}
-        - {x: -22.5, y: -20}
-        - {x: -18.5, y: -21}
-        - {x: 22.5, y: -21}
-        - {x: 22.5, y: 12}
-        - {x: 21.5, y: 18}
+      - - {x: 14.5, y: 29.399994}
+        - {x: -11.5, y: 29.399994}
+        - {x: -19.5, y: 24.399994}
+        - {x: -22.5, y: 17.399994}
+        - {x: -22.5, y: -11.600006}
+        - {x: -18.5, y: -12.600006}
+        - {x: 22.5, y: -12.600006}
+        - {x: 22.5, y: 20.399994}
+        - {x: 21.5, y: 26.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_137
       rect:
         serializedVersion: 2
@@ -1820,19 +1820,19 @@ TextureImporter:
         y: 198
         width: 45
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14.5, y: 19.5}
-        - {x: -18.5, y: 14.5}
-        - {x: -22.5, y: 7.5}
-        - {x: -22.5, y: -17.5}
-        - {x: -21.5, y: -19.5}
-        - {x: 21.5, y: -19.5}
-        - {x: 22.5, y: -18.5}
-        - {x: 22.5, y: 13.5}
-        - {x: 17.5, y: 19.5}
+      - - {x: -14.5, y: 27.300003}
+        - {x: -18.5, y: 22.300003}
+        - {x: -22.5, y: 15.300003}
+        - {x: -22.5, y: -9.699997}
+        - {x: -21.5, y: -11.699997}
+        - {x: 21.5, y: -11.699997}
+        - {x: 22.5, y: -10.699997}
+        - {x: 22.5, y: 21.300003}
+        - {x: 17.5, y: 27.300003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_138
       rect:
         serializedVersion: 2
@@ -1840,18 +1840,18 @@ TextureImporter:
         y: 203
         width: 46
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -21, y: 19.5}
-        - {x: -23, y: 12.5}
-        - {x: -23, y: -10.5}
-        - {x: -1, y: -19.5}
-        - {x: 18, y: -19.5}
-        - {x: 23, y: -12.5}
-        - {x: 23, y: 11.5}
-        - {x: 18, y: 19.5}
+      - - {x: -21, y: 27.300003}
+        - {x: -23, y: 20.300003}
+        - {x: -23, y: -2.699997}
+        - {x: -1, y: -11.699997}
+        - {x: 18, y: -11.699997}
+        - {x: 23, y: -4.699997}
+        - {x: 23, y: 19.300003}
+        - {x: 18, y: 27.300003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_139
       rect:
         serializedVersion: 2
@@ -1859,17 +1859,17 @@ TextureImporter:
         y: 203
         width: 45
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -22.5, y: 21}
-        - {x: -22.5, y: -20}
-        - {x: -19.5, y: -21}
-        - {x: 12.5, y: -21}
-        - {x: 22.5, y: -15}
-        - {x: 22.5, y: 20}
-        - {x: 20.5, y: 21}
+      - - {x: -22.5, y: 29.399994}
+        - {x: -22.5, y: -11.600006}
+        - {x: -19.5, y: -12.600006}
+        - {x: 12.5, y: -12.600006}
+        - {x: 22.5, y: -6.600006}
+        - {x: 22.5, y: 28.399994}
+        - {x: 20.5, y: 29.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_140
       rect:
         serializedVersion: 2
@@ -1877,19 +1877,19 @@ TextureImporter:
         y: 203
         width: 44
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -17, y: 21}
-        - {x: -20, y: 20}
-        - {x: -22, y: 14}
-        - {x: -22, y: -9}
-        - {x: -5, y: -21}
-        - {x: 14, y: -21}
-        - {x: 22, y: -16}
-        - {x: 22, y: 18}
-        - {x: 15, y: 21}
+      - - {x: -17, y: 29.399994}
+        - {x: -20, y: 28.399994}
+        - {x: -22, y: 22.399994}
+        - {x: -22, y: -0.6000061}
+        - {x: -5, y: -12.600006}
+        - {x: 14, y: -12.600006}
+        - {x: 22, y: -7.600006}
+        - {x: 22, y: 26.399994}
+        - {x: 15, y: 29.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_141
       rect:
         serializedVersion: 2
@@ -1897,21 +1897,21 @@ TextureImporter:
         y: 195
         width: 48
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 17, y: 18}
-        - {x: 13, y: 22}
-        - {x: -18, y: 22}
-        - {x: -24, y: 20}
-        - {x: -24, y: -14}
-        - {x: -23, y: -19}
-        - {x: -20, y: -22}
-        - {x: 16, y: -22}
-        - {x: 24, y: -15}
-        - {x: 24, y: -1}
-        - {x: 20, y: 12}
+      - - {x: 17, y: 26.800003}
+        - {x: 13, y: 30.800003}
+        - {x: -18, y: 30.800003}
+        - {x: -24, y: 28.800003}
+        - {x: -24, y: -5.199997}
+        - {x: -23, y: -10.199997}
+        - {x: -20, y: -13.199997}
+        - {x: 16, y: -13.199997}
+        - {x: 24, y: -6.199997}
+        - {x: 24, y: 7.800003}
+        - {x: 20, y: 20.800003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_142
       rect:
         serializedVersion: 2
@@ -1919,18 +1919,18 @@ TextureImporter:
         y: 197
         width: 47
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -20.5, y: 21.5}
-        - {x: -23.5, y: 15.5}
-        - {x: -23.5, y: -20.5}
-        - {x: -21.5, y: -21.5}
-        - {x: 18.5, y: -21.5}
-        - {x: 23.5, y: -19.5}
-        - {x: 23.5, y: 17.5}
-        - {x: 14.5, y: 21.5}
+      - - {x: -20.5, y: 30.100006}
+        - {x: -23.5, y: 24.100006}
+        - {x: -23.5, y: -11.899994}
+        - {x: -21.5, y: -12.899994}
+        - {x: 18.5, y: -12.899994}
+        - {x: 23.5, y: -10.899994}
+        - {x: 23.5, y: 26.100006}
+        - {x: 14.5, y: 30.100006}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_143
       rect:
         serializedVersion: 2
@@ -1938,16 +1938,16 @@ TextureImporter:
         y: 156
         width: 45
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15.5, y: 21}
-        - {x: -22.5, y: 12}
-        - {x: -22.5, y: -21}
-        - {x: 22.5, y: -21}
-        - {x: 22.5, y: 9}
-        - {x: 13.5, y: 21}
+      - - {x: -15.5, y: 29.399994}
+        - {x: -22.5, y: 20.399994}
+        - {x: -22.5, y: -12.600006}
+        - {x: 22.5, y: -12.600006}
+        - {x: 22.5, y: 17.399994}
+        - {x: 13.5, y: 29.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_144
       rect:
         serializedVersion: 2
@@ -1955,18 +1955,18 @@ TextureImporter:
         y: 156
         width: 46
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -18, y: 21}
-        - {x: -23, y: 5}
-        - {x: -23, y: -21}
-        - {x: 16, y: -21}
-        - {x: 23, y: -19}
-        - {x: 23, y: 10}
-        - {x: 21, y: 17}
-        - {x: 16, y: 21}
+      - - {x: -18, y: 29.399994}
+        - {x: -23, y: 13.399994}
+        - {x: -23, y: -12.600006}
+        - {x: 16, y: -12.600006}
+        - {x: 23, y: -10.600006}
+        - {x: 23, y: 18.399994}
+        - {x: 21, y: 25.399994}
+        - {x: 16, y: 29.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_145
       rect:
         serializedVersion: 2
@@ -1974,18 +1974,18 @@ TextureImporter:
         y: 156
         width: 45
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 15.5, y: 20.5}
-        - {x: -15.5, y: 20.5}
-        - {x: -22.5, y: 18.5}
-        - {x: -22.5, y: -20.5}
-        - {x: 21.5, y: -20.5}
-        - {x: 22.5, y: -19.5}
-        - {x: 22.5, y: -0.5}
-        - {x: 19.5, y: 14.5}
+      - - {x: 15.5, y: 28.699997}
+        - {x: -15.5, y: 28.699997}
+        - {x: -22.5, y: 26.699997}
+        - {x: -22.5, y: -12.300003}
+        - {x: 21.5, y: -12.300003}
+        - {x: 22.5, y: -11.300003}
+        - {x: 22.5, y: 7.699997}
+        - {x: 19.5, y: 22.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_146
       rect:
         serializedVersion: 2
@@ -1993,17 +1993,17 @@ TextureImporter:
         y: 156
         width: 45
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -21.5, y: 20.5}
-        - {x: -22.5, y: 17.5}
-        - {x: -22.5, y: -18.5}
-        - {x: -21.5, y: -20.5}
-        - {x: 22.5, y: -20.5}
-        - {x: 22.5, y: 18.5}
-        - {x: 16.5, y: 20.5}
+      - - {x: -21.5, y: 28.699997}
+        - {x: -22.5, y: 25.699997}
+        - {x: -22.5, y: -10.300003}
+        - {x: -21.5, y: -12.300003}
+        - {x: 22.5, y: -12.300003}
+        - {x: 22.5, y: 26.699997}
+        - {x: 16.5, y: 28.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_147
       rect:
         serializedVersion: 2
@@ -2011,17 +2011,17 @@ TextureImporter:
         y: 155
         width: 45
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -21.5, y: 20.5}
-        - {x: -22.5, y: 17.5}
-        - {x: -22.5, y: -20.5}
-        - {x: 21.5, y: -20.5}
-        - {x: 22.5, y: -18.5}
-        - {x: 22.5, y: 19.5}
-        - {x: 18.5, y: 20.5}
+      - - {x: -21.5, y: 28.699997}
+        - {x: -22.5, y: 25.699997}
+        - {x: -22.5, y: -12.300003}
+        - {x: 21.5, y: -12.300003}
+        - {x: 22.5, y: -10.300003}
+        - {x: 22.5, y: 27.699997}
+        - {x: 18.5, y: 28.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_148
       rect:
         serializedVersion: 2
@@ -2029,19 +2029,19 @@ TextureImporter:
         y: 151
         width: 47
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 19.5, y: 21.5}
-        - {x: -14.5, y: 21.5}
-        - {x: -23.5, y: 17.5}
-        - {x: -23.5, y: -19.5}
-        - {x: -16.5, y: -21.5}
-        - {x: 15.5, y: -21.5}
-        - {x: 23.5, y: -16.5}
-        - {x: 23.5, y: 3.5}
-        - {x: 20.5, y: 17.5}
+      - - {x: 19.5, y: 30.100006}
+        - {x: -14.5, y: 30.100006}
+        - {x: -23.5, y: 26.100006}
+        - {x: -23.5, y: -10.899994}
+        - {x: -16.5, y: -12.899994}
+        - {x: 15.5, y: -12.899994}
+        - {x: 23.5, y: -7.899994}
+        - {x: 23.5, y: 12.100006}
+        - {x: 20.5, y: 26.100006}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_149
       rect:
         serializedVersion: 2
@@ -2049,18 +2049,18 @@ TextureImporter:
         y: 153
         width: 46
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -19, y: 21.5}
-        - {x: -23, y: 15.5}
-        - {x: -23, y: -18.5}
-        - {x: -20, y: -21.5}
-        - {x: 15, y: -21.5}
-        - {x: 23, y: -16.5}
-        - {x: 23, y: 20.5}
-        - {x: 18, y: 21.5}
+      - - {x: -19, y: 30.100006}
+        - {x: -23, y: 24.100006}
+        - {x: -23, y: -9.899994}
+        - {x: -20, y: -12.899994}
+        - {x: 15, y: -12.899994}
+        - {x: 23, y: -7.899994}
+        - {x: 23, y: 29.100006}
+        - {x: 18, y: 30.100006}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_150
       rect:
         serializedVersion: 2
@@ -2068,20 +2068,20 @@ TextureImporter:
         y: 153
         width: 44
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 15, y: 20.5}
-        - {x: -12, y: 20.5}
-        - {x: -17, y: 19.5}
-        - {x: -22, y: 9.5}
-        - {x: -22, y: -17.5}
-        - {x: -19, y: -20.5}
-        - {x: 21, y: -20.5}
-        - {x: 22, y: -19.5}
-        - {x: 22, y: 6.5}
-        - {x: 20, y: 16.5}
+      - - {x: 15, y: 28.699997}
+        - {x: -12, y: 28.699997}
+        - {x: -17, y: 27.699997}
+        - {x: -22, y: 17.699997}
+        - {x: -22, y: -9.300003}
+        - {x: -19, y: -12.300003}
+        - {x: 21, y: -12.300003}
+        - {x: 22, y: -11.300003}
+        - {x: 22, y: 14.699997}
+        - {x: 20, y: 24.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_151
       rect:
         serializedVersion: 2
@@ -2089,16 +2089,16 @@ TextureImporter:
         y: 131
         width: 45
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15.5, y: 21}
-        - {x: -22.5, y: 12}
-        - {x: -22.5, y: -21}
-        - {x: 22.5, y: -21}
-        - {x: 22.5, y: 9}
-        - {x: 13.5, y: 21}
+      - - {x: -15.5, y: 29.399994}
+        - {x: -22.5, y: 20.399994}
+        - {x: -22.5, y: -12.600006}
+        - {x: 22.5, y: -12.600006}
+        - {x: 22.5, y: 17.399994}
+        - {x: 13.5, y: 29.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_152
       rect:
         serializedVersion: 2
@@ -2106,18 +2106,18 @@ TextureImporter:
         y: 131
         width: 45
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11.5, y: 19.5}
-        - {x: -20.5, y: 16.5}
-        - {x: -22.5, y: 14.5}
-        - {x: -22.5, y: -18.5}
-        - {x: -21.5, y: -19.5}
-        - {x: 22.5, y: -19.5}
-        - {x: 22.5, y: 9.5}
-        - {x: 16.5, y: 19.5}
+      - - {x: -11.5, y: 27.300003}
+        - {x: -20.5, y: 24.300003}
+        - {x: -22.5, y: 22.300003}
+        - {x: -22.5, y: -10.699997}
+        - {x: -21.5, y: -11.699997}
+        - {x: 22.5, y: -11.699997}
+        - {x: 22.5, y: 17.300003}
+        - {x: 16.5, y: 27.300003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_153
       rect:
         serializedVersion: 2
@@ -2125,17 +2125,17 @@ TextureImporter:
         y: 136
         width: 46
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -22, y: 19.5}
-        - {x: -23, y: 13.5}
-        - {x: -23, y: -14.5}
-        - {x: -17, y: -19.5}
-        - {x: 4, y: -19.5}
-        - {x: 23, y: -8.5}
-        - {x: 23, y: 19.5}
+      - - {x: -22, y: 27.300003}
+        - {x: -23, y: 21.300003}
+        - {x: -23, y: -6.699997}
+        - {x: -17, y: -11.699997}
+        - {x: 4, y: -11.699997}
+        - {x: 23, y: -0.69999695}
+        - {x: 23, y: 27.300003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_154
       rect:
         serializedVersion: 2
@@ -2143,18 +2143,18 @@ TextureImporter:
         y: 136
         width: 45
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16.5, y: 21}
-        - {x: -22.5, y: 19}
-        - {x: -22.5, y: -19}
-        - {x: -21.5, y: -21}
-        - {x: 20.5, y: -21}
-        - {x: 22.5, y: -15}
-        - {x: 22.5, y: 18}
-        - {x: 19.5, y: 21}
+      - - {x: -16.5, y: 29.399994}
+        - {x: -22.5, y: 27.399994}
+        - {x: -22.5, y: -10.600006}
+        - {x: -21.5, y: -12.600006}
+        - {x: 20.5, y: -12.600006}
+        - {x: 22.5, y: -6.600006}
+        - {x: 22.5, y: 26.399994}
+        - {x: 19.5, y: 29.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_155
       rect:
         serializedVersion: 2
@@ -2162,19 +2162,19 @@ TextureImporter:
         y: 136
         width: 44
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -17, y: 21}
-        - {x: -22, y: 17}
-        - {x: -22, y: -16}
-        - {x: -17, y: -21}
-        - {x: 2, y: -21}
-        - {x: 11, y: -19}
-        - {x: 22, y: -9}
-        - {x: 22, y: 11}
-        - {x: 18, y: 21}
+      - - {x: -17, y: 29.399994}
+        - {x: -22, y: 25.399994}
+        - {x: -22, y: -7.600006}
+        - {x: -17, y: -12.600006}
+        - {x: 2, y: -12.600006}
+        - {x: 11, y: -10.600006}
+        - {x: 22, y: -0.6000061}
+        - {x: 22, y: 19.399994}
+        - {x: 18, y: 29.399994}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_156
       rect:
         serializedVersion: 2
@@ -2182,18 +2182,18 @@ TextureImporter:
         y: 128
         width: 48
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -24, y: -20}
-        - {x: -23, y: -22}
-        - {x: 24, y: -22}
-        - {x: 24, y: 10}
-        - {x: 17, y: 22}
-        - {x: -13, y: 22}
-        - {x: -15, y: 21}
-        - {x: -24, y: 6}
+      - - {x: -24, y: -11.199997}
+        - {x: -23, y: -13.199997}
+        - {x: 24, y: -13.199997}
+        - {x: 24, y: 18.800003}
+        - {x: 17, y: 30.800003}
+        - {x: -13, y: 30.800003}
+        - {x: -15, y: 29.800003}
+        - {x: -24, y: 14.800003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_157
       rect:
         serializedVersion: 2
@@ -2201,19 +2201,19 @@ TextureImporter:
         y: 130
         width: 47
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 17.5, y: 21.5}
-        - {x: -12.5, y: 21.5}
-        - {x: -23.5, y: 16.5}
-        - {x: -23.5, y: -16.5}
-        - {x: -16.5, y: -21.5}
-        - {x: 18.5, y: -21.5}
-        - {x: 23.5, y: -15.5}
-        - {x: 23.5, y: 1.5}
-        - {x: 20.5, y: 15.5}
+      - - {x: 17.5, y: 30.100006}
+        - {x: -12.5, y: 30.100006}
+        - {x: -23.5, y: 25.100006}
+        - {x: -23.5, y: -7.899994}
+        - {x: -16.5, y: -12.899994}
+        - {x: 18.5, y: -12.899994}
+        - {x: 23.5, y: -6.899994}
+        - {x: 23.5, y: 10.100006}
+        - {x: 20.5, y: 24.100006}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_158
       rect:
         serializedVersion: 2
@@ -2221,19 +2221,19 @@ TextureImporter:
         y: 103
         width: 44
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14, y: 21}
-        - {x: -21, y: 19}
-        - {x: -22, y: 17}
-        - {x: -22, y: -19}
-        - {x: -14, y: -21}
-        - {x: 12, y: -21}
-        - {x: 22, y: -15}
-        - {x: 22, y: 12}
-        - {x: 16, y: 21}
+      - - {x: -14, y: 29.400002}
+        - {x: -21, y: 27.400002}
+        - {x: -22, y: 25.400002}
+        - {x: -22, y: -10.599998}
+        - {x: -14, y: -12.599998}
+        - {x: 12, y: -12.599998}
+        - {x: 22, y: -6.5999985}
+        - {x: 22, y: 20.400002}
+        - {x: 16, y: 29.400002}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_159
       rect:
         serializedVersion: 2
@@ -2241,19 +2241,19 @@ TextureImporter:
         y: 103
         width: 45
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 16.5, y: 21}
-        - {x: -12.5, y: 21}
-        - {x: -22.5, y: 19}
-        - {x: -22.5, y: -18}
-        - {x: -17.5, y: -21}
-        - {x: 20.5, y: -21}
-        - {x: 22.5, y: -19}
-        - {x: 22.5, y: 9}
-        - {x: 21.5, y: 16}
+      - - {x: 16.5, y: 29.400002}
+        - {x: -12.5, y: 29.400002}
+        - {x: -22.5, y: 27.400002}
+        - {x: -22.5, y: -9.599998}
+        - {x: -17.5, y: -12.599998}
+        - {x: 20.5, y: -12.599998}
+        - {x: 22.5, y: -10.599998}
+        - {x: 22.5, y: 17.400002}
+        - {x: 21.5, y: 24.400002}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_160
       rect:
         serializedVersion: 2
@@ -2261,18 +2261,18 @@ TextureImporter:
         y: 103
         width: 45
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 14.5, y: 20.5}
-        - {x: -14.5, y: 20.5}
-        - {x: -22.5, y: 11.5}
-        - {x: -22.5, y: -16.5}
-        - {x: -14.5, y: -20.5}
-        - {x: 6.5, y: -20.5}
-        - {x: 22.5, y: -16.5}
-        - {x: 22.5, y: 17.5}
+      - - {x: 14.5, y: 28.699997}
+        - {x: -14.5, y: 28.699997}
+        - {x: -22.5, y: 19.699997}
+        - {x: -22.5, y: -8.300003}
+        - {x: -14.5, y: -12.300003}
+        - {x: 6.5, y: -12.300003}
+        - {x: 22.5, y: -8.300003}
+        - {x: 22.5, y: 25.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_161
       rect:
         serializedVersion: 2
@@ -2280,19 +2280,19 @@ TextureImporter:
         y: 103
         width: 44
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -22, y: -16.5}
-        - {x: -17, y: -20.5}
-        - {x: 14, y: -20.5}
-        - {x: 22, y: -17.5}
-        - {x: 22, y: 7.5}
-        - {x: 20, y: 14.5}
-        - {x: 16, y: 20.5}
-        - {x: -11, y: 20.5}
-        - {x: -22, y: 15.5}
+      - - {x: -22, y: -8.300003}
+        - {x: -17, y: -12.300003}
+        - {x: 14, y: -12.300003}
+        - {x: 22, y: -9.300003}
+        - {x: 22, y: 15.699997}
+        - {x: 20, y: 22.699997}
+        - {x: 16, y: 28.699997}
+        - {x: -11, y: 28.699997}
+        - {x: -22, y: 23.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_162
       rect:
         serializedVersion: 2
@@ -2300,19 +2300,19 @@ TextureImporter:
         y: 98
         width: 46
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9, y: 21.5}
-        - {x: -18, y: 16.5}
-        - {x: -23, y: 10.5}
-        - {x: -23, y: -18.5}
-        - {x: -18, y: -21.5}
-        - {x: 7, y: -21.5}
-        - {x: 23, y: -15.5}
-        - {x: 23, y: 7.5}
-        - {x: 12, y: 21.5}
+      - - {x: -9, y: 30.099998}
+        - {x: -18, y: 25.099998}
+        - {x: -23, y: 19.099998}
+        - {x: -23, y: -9.900002}
+        - {x: -18, y: -12.900002}
+        - {x: 7, y: -12.900002}
+        - {x: 23, y: -6.9000015}
+        - {x: 23, y: 16.099998}
+        - {x: 12, y: 30.099998}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_163
       rect:
         serializedVersion: 2
@@ -2320,17 +2320,17 @@ TextureImporter:
         y: 95
         width: 43
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13.5, y: 22}
-        - {x: -21.5, y: 13}
-        - {x: -21.5, y: -14}
-        - {x: -18.5, y: -21}
-        - {x: -14.5, y: -22}
-        - {x: 21.5, y: -22}
-        - {x: 21.5, y: 22}
+      - - {x: -13.5, y: 30.800003}
+        - {x: -21.5, y: 21.800003}
+        - {x: -21.5, y: -5.199997}
+        - {x: -18.5, y: -12.199997}
+        - {x: -14.5, y: -13.199997}
+        - {x: 21.5, y: -13.199997}
+        - {x: 21.5, y: 30.800003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_164
       rect:
         serializedVersion: 2
@@ -2338,18 +2338,18 @@ TextureImporter:
         y: 100
         width: 44
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -17, y: 20.5}
-        - {x: -22, y: 12.5}
-        - {x: -22, y: -19.5}
-        - {x: -19, y: -20.5}
-        - {x: 11, y: -20.5}
-        - {x: 22, y: -16.5}
-        - {x: 22, y: 15.5}
-        - {x: 14, y: 20.5}
+      - - {x: -17, y: 28.699997}
+        - {x: -22, y: 20.699997}
+        - {x: -22, y: -11.300003}
+        - {x: -19, y: -12.300003}
+        - {x: 11, y: -12.300003}
+        - {x: 22, y: -8.300003}
+        - {x: 22, y: 23.699997}
+        - {x: 14, y: 28.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_165
       rect:
         serializedVersion: 2
@@ -2357,20 +2357,20 @@ TextureImporter:
         y: 98
         width: 48
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -24, y: 15.5}
-        - {x: -24, y: -15.5}
-        - {x: -18, y: -20.5}
-        - {x: 11, y: -20.5}
-        - {x: 24, y: -16.5}
-        - {x: 24, y: 4.5}
-        - {x: 20, y: 16.5}
-        - {x: 15, y: 20.5}
-        - {x: -16, y: 20.5}
-        - {x: -23, y: 19.5}
+      - - {x: -24, y: 23.699997}
+        - {x: -24, y: -7.300003}
+        - {x: -18, y: -12.300003}
+        - {x: 11, y: -12.300003}
+        - {x: 24, y: -8.300003}
+        - {x: 24, y: 12.699997}
+        - {x: 20, y: 24.699997}
+        - {x: 15, y: 28.699997}
+        - {x: -16, y: 28.699997}
+        - {x: -23, y: 27.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_166
       rect:
         serializedVersion: 2
@@ -2378,19 +2378,19 @@ TextureImporter:
         y: 68
         width: 44
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14, y: 21}
-        - {x: -21, y: 19}
-        - {x: -22, y: 17}
-        - {x: -22, y: -19}
-        - {x: -14, y: -21}
-        - {x: 12, y: -21}
-        - {x: 22, y: -15}
-        - {x: 22, y: 12}
-        - {x: 16, y: 21}
+      - - {x: -14, y: 29.400002}
+        - {x: -21, y: 27.400002}
+        - {x: -22, y: 25.400002}
+        - {x: -22, y: -10.599998}
+        - {x: -14, y: -12.599998}
+        - {x: 12, y: -12.599998}
+        - {x: 22, y: -6.5999985}
+        - {x: 22, y: 20.400002}
+        - {x: 16, y: 29.400002}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_167
       rect:
         serializedVersion: 2
@@ -2398,20 +2398,20 @@ TextureImporter:
         y: 68
         width: 45
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -12.5, y: 20}
-        - {x: -20.5, y: 18}
-        - {x: -22.5, y: 10}
-        - {x: -22.5, y: -13}
-        - {x: -12.5, y: -20}
-        - {x: 7.5, y: -20}
-        - {x: 21.5, y: -15}
-        - {x: 22.5, y: -14}
-        - {x: 22.5, y: 9}
-        - {x: 15.5, y: 20}
+      - - {x: -12.5, y: 28}
+        - {x: -20.5, y: 26}
+        - {x: -22.5, y: 18}
+        - {x: -22.5, y: -5}
+        - {x: -12.5, y: -12}
+        - {x: 7.5, y: -12}
+        - {x: 21.5, y: -7}
+        - {x: 22.5, y: -6}
+        - {x: 22.5, y: 17}
+        - {x: 15.5, y: 28}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_168
       rect:
         serializedVersion: 2
@@ -2419,21 +2419,21 @@ TextureImporter:
         y: 68
         width: 42
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 12, y: 21}
-        - {x: -9, y: 21}
-        - {x: -17, y: 17}
-        - {x: -20, y: 15}
-        - {x: -21, y: 7}
-        - {x: -21, y: -12}
-        - {x: -14, y: -21}
-        - {x: 12, y: -21}
-        - {x: 19, y: -11}
-        - {x: 21, y: -5}
-        - {x: 21, y: 15}
+      - - {x: 12, y: 29.400002}
+        - {x: -9, y: 29.400002}
+        - {x: -17, y: 25.400002}
+        - {x: -20, y: 23.400002}
+        - {x: -21, y: 15.400002}
+        - {x: -21, y: -3.5999985}
+        - {x: -14, y: -12.599998}
+        - {x: 12, y: -12.599998}
+        - {x: 19, y: -2.5999985}
+        - {x: 21, y: 3.4000015}
+        - {x: 21, y: 23.400002}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_169
       rect:
         serializedVersion: 2
@@ -2441,19 +2441,19 @@ TextureImporter:
         y: 68
         width: 43
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13.5, y: 22}
-        - {x: -16.5, y: 20}
-        - {x: -21.5, y: 13}
-        - {x: -21.5, y: -19}
-        - {x: -20.5, y: -22}
-        - {x: 12.5, y: -22}
-        - {x: 21.5, y: -19}
-        - {x: 21.5, y: 18}
-        - {x: 11.5, y: 22}
+      - - {x: -13.5, y: 30.800003}
+        - {x: -16.5, y: 28.800003}
+        - {x: -21.5, y: 21.800003}
+        - {x: -21.5, y: -10.199997}
+        - {x: -20.5, y: -13.199997}
+        - {x: 12.5, y: -13.199997}
+        - {x: 21.5, y: -10.199997}
+        - {x: 21.5, y: 26.800003}
+        - {x: 11.5, y: 30.800003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_170
       rect:
         serializedVersion: 2
@@ -2461,19 +2461,19 @@ TextureImporter:
         y: 68
         width: 42
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: 22}
-        - {x: -18, y: 21}
-        - {x: -21, y: 10}
-        - {x: -21, y: -15}
-        - {x: -15, y: -22}
-        - {x: 14, y: -22}
-        - {x: 21, y: -10}
-        - {x: 21, y: 17}
-        - {x: 11, y: 22}
+      - - {x: -16, y: 30.800003}
+        - {x: -18, y: 29.800003}
+        - {x: -21, y: 18.800003}
+        - {x: -21, y: -6.199997}
+        - {x: -15, y: -13.199997}
+        - {x: 14, y: -13.199997}
+        - {x: 21, y: -1.199997}
+        - {x: 21, y: 25.800003}
+        - {x: 11, y: 30.800003}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_171
       rect:
         serializedVersion: 2
@@ -2481,19 +2481,19 @@ TextureImporter:
         y: 69
         width: 48
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -24, y: -11.5}
-        - {x: -15, y: -20.5}
-        - {x: 12, y: -20.5}
-        - {x: 24, y: -15.5}
-        - {x: 24, y: 4.5}
-        - {x: 19, y: 15.5}
-        - {x: 16, y: 20.5}
-        - {x: -16, y: 20.5}
-        - {x: -24, y: 17.5}
+      - - {x: -24, y: -3.300003}
+        - {x: -15, y: -12.300003}
+        - {x: 12, y: -12.300003}
+        - {x: 24, y: -7.300003}
+        - {x: 24, y: 12.699997}
+        - {x: 19, y: 23.699997}
+        - {x: 16, y: 28.699997}
+        - {x: -16, y: 28.699997}
+        - {x: -24, y: 25.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_172
       rect:
         serializedVersion: 2
@@ -2501,19 +2501,19 @@ TextureImporter:
         y: 69
         width: 47
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -23.5, y: -18.5}
-        - {x: -20.5, y: -20.5}
-        - {x: 11.5, y: -20.5}
-        - {x: 23.5, y: -15.5}
-        - {x: 23.5, y: 10.5}
-        - {x: 21.5, y: 18.5}
-        - {x: 14.5, y: 20.5}
-        - {x: -18.5, y: 20.5}
-        - {x: -23.5, y: 17.5}
+      - - {x: -23.5, y: -10.300003}
+        - {x: -20.5, y: -12.300003}
+        - {x: 11.5, y: -12.300003}
+        - {x: 23.5, y: -7.300003}
+        - {x: 23.5, y: 18.699997}
+        - {x: 21.5, y: 26.699997}
+        - {x: 14.5, y: 28.699997}
+        - {x: -18.5, y: 28.699997}
+        - {x: -23.5, y: 25.699997}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_173
       rect:
         serializedVersion: 2
@@ -2521,18 +2521,18 @@ TextureImporter:
         y: 51
         width: 44
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -18, y: 21}
-        - {x: -22, y: 20}
-        - {x: -22, y: -17}
-        - {x: -9, y: -21}
-        - {x: 16, y: -21}
-        - {x: 22, y: -17}
-        - {x: 22, y: 12}
-        - {x: 13, y: 21}
+      - - {x: -18, y: 29.400002}
+        - {x: -22, y: 28.400002}
+        - {x: -22, y: -8.599998}
+        - {x: -9, y: -12.599998}
+        - {x: 16, y: -12.599998}
+        - {x: 22, y: -8.599998}
+        - {x: 22, y: 20.400002}
+        - {x: 13, y: 29.400002}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_174
       rect:
         serializedVersion: 2
@@ -2540,16 +2540,16 @@ TextureImporter:
         y: 51
         width: 45
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -22.5, y: 21}
-        - {x: -22.5, y: -21}
-        - {x: 17.5, y: -21}
-        - {x: 22.5, y: -18}
-        - {x: 22.5, y: 12}
-        - {x: 15.5, y: 21}
+      - - {x: -22.5, y: 29.400002}
+        - {x: -22.5, y: -12.599998}
+        - {x: 17.5, y: -12.599998}
+        - {x: 22.5, y: -9.599998}
+        - {x: 22.5, y: 20.400002}
+        - {x: 15.5, y: 29.400002}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_175
       rect:
         serializedVersion: 2
@@ -2557,19 +2557,19 @@ TextureImporter:
         y: 51
         width: 45
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14.5, y: 20.5}
-        - {x: -18.5, y: 14.5}
-        - {x: -22.5, y: 4.5}
-        - {x: -22.5, y: -14.5}
-        - {x: -16.5, y: -20.5}
-        - {x: 16.5, y: -20.5}
-        - {x: 22.5, y: -17.5}
-        - {x: 22.5, y: 19.5}
-        - {x: 17.5, y: 20.5}
+      - - {x: -14.5, y: 28.7}
+        - {x: -18.5, y: 22.7}
+        - {x: -22.5, y: 12.700001}
+        - {x: -22.5, y: -6.299999}
+        - {x: -16.5, y: -12.299999}
+        - {x: 16.5, y: -12.299999}
+        - {x: 22.5, y: -9.299999}
+        - {x: 22.5, y: 27.7}
+        - {x: 17.5, y: 28.7}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_176
       rect:
         serializedVersion: 2
@@ -2577,18 +2577,18 @@ TextureImporter:
         y: 51
         width: 44
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14, y: 20.5}
-        - {x: -22, y: 15.5}
-        - {x: -22, y: -14.5}
-        - {x: -8, y: -20.5}
-        - {x: 11, y: -20.5}
-        - {x: 22, y: -14.5}
-        - {x: 22, y: 13.5}
-        - {x: 18, y: 20.5}
+      - - {x: -14, y: 28.7}
+        - {x: -22, y: 23.7}
+        - {x: -22, y: -6.299999}
+        - {x: -8, y: -12.299999}
+        - {x: 11, y: -12.299999}
+        - {x: 22, y: -6.299999}
+        - {x: 22, y: 21.7}
+        - {x: 18, y: 28.7}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_177
       rect:
         serializedVersion: 2
@@ -2596,18 +2596,18 @@ TextureImporter:
         y: 42
         width: 46
         height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -17, y: 21.5}
-        - {x: -23, y: 7.5}
-        - {x: -23, y: -17.5}
-        - {x: -13, y: -21.5}
-        - {x: 17, y: -21.5}
-        - {x: 23, y: -19.5}
-        - {x: 23, y: 12.5}
-        - {x: 17, y: 21.5}
+      - - {x: -17, y: 30.099998}
+        - {x: -23, y: 16.099998}
+        - {x: -23, y: -8.900002}
+        - {x: -13, y: -12.900002}
+        - {x: 17, y: -12.900002}
+        - {x: 23, y: -10.900002}
+        - {x: 23, y: 21.099998}
+        - {x: 17, y: 30.099998}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_178
       rect:
         serializedVersion: 2
@@ -2615,18 +2615,18 @@ TextureImporter:
         y: 39
         width: 43
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15.5, y: 22}
-        - {x: -21.5, y: 20}
-        - {x: -21.5, y: -17}
-        - {x: -17.5, y: -22}
-        - {x: 14.5, y: -22}
-        - {x: 21.5, y: -18}
-        - {x: 21.5, y: 12}
-        - {x: 13.5, y: 22}
+      - - {x: -15.5, y: 30.8}
+        - {x: -21.5, y: 28.8}
+        - {x: -21.5, y: -8.200001}
+        - {x: -17.5, y: -13.200001}
+        - {x: 14.5, y: -13.200001}
+        - {x: 21.5, y: -9.200001}
+        - {x: 21.5, y: 20.8}
+        - {x: 13.5, y: 30.8}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_179
       rect:
         serializedVersion: 2
@@ -2634,17 +2634,17 @@ TextureImporter:
         y: 44
         width: 44
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -20, y: 20.5}
-        - {x: -22, y: 18.5}
-        - {x: -22, y: -18.5}
-        - {x: -21, y: -20.5}
-        - {x: 22, y: -20.5}
-        - {x: 22, y: 17.5}
-        - {x: 14, y: 20.5}
+      - - {x: -20, y: 28.7}
+        - {x: -22, y: 26.7}
+        - {x: -22, y: -10.299999}
+        - {x: -21, y: -12.299999}
+        - {x: 22, y: -12.299999}
+        - {x: 22, y: 25.7}
+        - {x: 14, y: 28.7}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_180
       rect:
         serializedVersion: 2
@@ -2652,17 +2652,17 @@ TextureImporter:
         y: 42
         width: 48
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15, y: 20.5}
-        - {x: -24, y: 14.5}
-        - {x: -24, y: -20.5}
-        - {x: 21, y: -20.5}
-        - {x: 24, y: -14.5}
-        - {x: 24, y: 10.5}
-        - {x: 16, y: 20.5}
+      - - {x: -15, y: 28.7}
+        - {x: -24, y: 22.7}
+        - {x: -24, y: -12.299999}
+        - {x: 21, y: -12.299999}
+        - {x: 24, y: -6.299999}
+        - {x: 24, y: 18.7}
+        - {x: 16, y: 28.7}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_181
       rect:
         serializedVersion: 2
@@ -2670,19 +2670,19 @@ TextureImporter:
         y: 8
         width: 43
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 10.5, y: 22}
-        - {x: -8.5, y: 22}
-        - {x: -21.5, y: 15}
-        - {x: -21.5, y: -9}
-        - {x: -9.5, y: -22}
-        - {x: 16.5, y: -22}
-        - {x: 21.5, y: -16}
-        - {x: 21.5, y: 6}
-        - {x: 17.5, y: 21}
+      - - {x: 10.5, y: 30.8}
+        - {x: -8.5, y: 30.8}
+        - {x: -21.5, y: 23.8}
+        - {x: -21.5, y: -0.20000076}
+        - {x: -9.5, y: -13.200001}
+        - {x: 16.5, y: -13.200001}
+        - {x: 21.5, y: -7.200001}
+        - {x: 21.5, y: 14.799999}
+        - {x: 17.5, y: 29.8}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_182
       rect:
         serializedVersion: 2
@@ -2690,17 +2690,17 @@ TextureImporter:
         y: 8
         width: 42
         height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -12, y: 22}
-        - {x: -21, y: 14}
-        - {x: -21, y: -12}
-        - {x: -17, y: -22}
-        - {x: 21, y: -22}
-        - {x: 21, y: 21}
-        - {x: 19, y: 22}
+      - - {x: -12, y: 30.8}
+        - {x: -21, y: 22.8}
+        - {x: -21, y: -3.2000008}
+        - {x: -17, y: -13.200001}
+        - {x: 21, y: -13.200001}
+        - {x: 21, y: 29.8}
+        - {x: 19, y: 30.8}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_183
       rect:
         serializedVersion: 2
@@ -2708,18 +2708,18 @@ TextureImporter:
         y: 8
         width: 44
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -18, y: 21}
-        - {x: -22, y: 20}
-        - {x: -22, y: -17}
-        - {x: -9, y: -21}
-        - {x: 16, y: -21}
-        - {x: 22, y: -17}
-        - {x: 22, y: 12}
-        - {x: 13, y: 21}
+      - - {x: -18, y: 29.4}
+        - {x: -22, y: 28.4}
+        - {x: -22, y: -8.6}
+        - {x: -9, y: -12.6}
+        - {x: 16, y: -12.6}
+        - {x: 22, y: -8.6}
+        - {x: 22, y: 20.4}
+        - {x: 13, y: 29.4}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_184
       rect:
         serializedVersion: 2
@@ -2727,18 +2727,18 @@ TextureImporter:
         y: 8
         width: 45
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 16.5, y: 20}
-        - {x: -15.5, y: 20}
-        - {x: -22.5, y: 11}
-        - {x: -22.5, y: -16}
-        - {x: -12.5, y: -20}
-        - {x: 15.5, y: -20}
-        - {x: 22.5, y: -14}
-        - {x: 22.5, y: 19}
+      - - {x: 16.5, y: 28}
+        - {x: -15.5, y: 28}
+        - {x: -22.5, y: 19}
+        - {x: -22.5, y: -8}
+        - {x: -12.5, y: -12}
+        - {x: 15.5, y: -12}
+        - {x: 22.5, y: -6}
+        - {x: 22.5, y: 27}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_185
       rect:
         serializedVersion: 2
@@ -2746,18 +2746,18 @@ TextureImporter:
         y: 8
         width: 42
         height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 14, y: 21}
-        - {x: -15, y: 21}
-        - {x: -21, y: 20}
-        - {x: -21, y: -18}
-        - {x: -9, y: -21}
-        - {x: 17, y: -21}
-        - {x: 21, y: -15}
-        - {x: 21, y: 15}
+      - - {x: 14, y: 29.4}
+        - {x: -15, y: 29.4}
+        - {x: -21, y: 28.4}
+        - {x: -21, y: -9.6}
+        - {x: -9, y: -12.6}
+        - {x: 17, y: -12.6}
+        - {x: 21, y: -6.6000004}
+        - {x: 21, y: 23.4}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_186
       rect:
         serializedVersion: 2
@@ -2765,19 +2765,19 @@ TextureImporter:
         y: 9
         width: 48
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -14, y: 20.5}
-        - {x: -22, y: 10.5}
-        - {x: -24, y: 4.5}
-        - {x: -24, y: -13.5}
-        - {x: -7, y: -20.5}
-        - {x: 18, y: -20.5}
-        - {x: 24, y: -17.5}
-        - {x: 24, y: 12.5}
-        - {x: 21, y: 20.5}
+      - - {x: -14, y: 28.7}
+        - {x: -22, y: 18.7}
+        - {x: -24, y: 12.700001}
+        - {x: -24, y: -5.299999}
+        - {x: -7, y: -12.299999}
+        - {x: 18, y: -12.299999}
+        - {x: 24, y: -9.299999}
+        - {x: 24, y: 20.7}
+        - {x: 21, y: 28.7}
     - name: DS - Pokmon Ranger 3 Guardian Signs - Bulbasaur Ivysaur and Venusaur_187
       rect:
         serializedVersion: 2
@@ -2785,17 +2785,17 @@ TextureImporter:
         y: 9
         width: 47
         height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11.5, y: 20.5}
-        - {x: -20.5, y: 9.5}
-        - {x: -23.5, y: 3.5}
-        - {x: -23.5, y: -20.5}
-        - {x: 23.5, y: -20.5}
-        - {x: 23.5, y: 7.5}
-        - {x: 18.5, y: 20.5}
+      - - {x: -11.5, y: 28.7}
+        - {x: -20.5, y: 17.7}
+        - {x: -23.5, y: 11.700001}
+        - {x: -23.5, y: -12.299999}
+        - {x: 23.5, y: -12.299999}
+        - {x: 23.5, y: 15.700001}
+        - {x: 18.5, y: 28.7}
     outline: []
   spritePackingTag: 
   userData: 
