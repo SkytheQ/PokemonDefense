@@ -3,18 +3,9 @@ using System.Collections;
 
 public class GameManager : Singleton<GameManager>
 {
-    // is temp!!
-    [SerializeField]
-    private GameObject towerPrefab;
 
-    public GameObject TowerPrefab
-    {
-        get
-        {
-            return towerPrefab;
-        }
+    public TowerBtn ClickedBtn { get; set; }
 
-    }
 
     // Use this for initialization
     void Start () {
@@ -22,8 +13,29 @@ public class GameManager : Singleton<GameManager>
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+    {
+        HandleEscape();
 	
 	}
+
+    public void pickTower(TowerBtn towerBtn)
+    {
+        this.ClickedBtn = towerBtn;
+        Hover.Instance.Activate(towerBtn.Sprite);
+    }
+
+    public void BuyTower()
+    {
+        Hover.Instance.Deactivate();
+    }
+
+    private void HandleEscape()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Hover.Instance.Deactivate();
+        }
+    }
 }
 
