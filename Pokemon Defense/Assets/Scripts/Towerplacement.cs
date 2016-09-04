@@ -50,7 +50,7 @@ public class Towerplacement : MonoBehaviour {
         
         GameObject tower = (GameObject)Instantiate(GameManager.Instance.ClickedBtn.TowerPrefab, transform.position, Quaternion.identity);
         //tower.GetComponent<SpriteRenderer>().sortingOrder = GridPosition.Y;
-
+        
         tower.transform.SetParent(transform);
 
         IsEmpty = false;
