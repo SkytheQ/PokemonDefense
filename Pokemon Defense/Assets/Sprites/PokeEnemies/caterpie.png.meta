@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: f5cdb109d25403448b73e04a66dde539
+timeCreated: 1472861742
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: caterpie_0
+    21300002: caterpie_1
+    21300004: caterpie_8
+    21300006: caterpie_9
+    21300008: caterpie_10
+    21300010: caterpie_11
+    21300012: caterpie_12
+    21300014: caterpie_13
+    21300016: caterpie_14
+    21300018: caterpie_15
+    21300020: caterpie_16
+    21300022: caterpie_17
+    21300024: caterpie_18
+    21300026: caterpie_19
+    21300028: caterpie_20
+    21300030: caterpie_21
+    21300032: caterpie_22
+    21300034: caterpie_23
+    21300036: caterpie_24
+    21300038: caterpie_25
+    21300040: caterpie_26
+    21300042: caterpie_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: caterpie_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 155
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 127
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 108
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 102
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 102
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 102
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 86
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 83
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 83
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 83
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 66
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 66
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 66
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 42
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpie_27
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 42
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

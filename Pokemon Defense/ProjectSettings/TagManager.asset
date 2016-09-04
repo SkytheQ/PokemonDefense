@@ -7,6 +7,9 @@ TagManager:
   - Towers
   - Map
   - Towerbase
+  - Enemy
+  - Enemie
+  - GameManager
   layers:
   - Default
   - TransparentFX

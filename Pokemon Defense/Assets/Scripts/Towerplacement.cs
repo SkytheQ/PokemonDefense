@@ -29,16 +29,16 @@ public class Towerplacement : MonoBehaviour {
    
     private void OnMouseOver()
     {
-        
+
 
         if (!EventSystem.current.IsPointerOverGameObject() && GameManager.Instance.ClickedBtn != null)
         {
-            
-            if(IsEmpty)
+
+            if (IsEmpty)
             {
 
             }
-             else if (Input.GetMouseButtonDown(0))
+            else if (Input.GetMouseButtonDown(0))
             {
                 PlaceTower();
             }
