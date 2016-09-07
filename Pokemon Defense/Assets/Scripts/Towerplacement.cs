@@ -4,8 +4,8 @@ using UnityEngine.EventSystems;
 
 public class Towerplacement : MonoBehaviour {
 
-    
-    public bool IsEmpty { get; private set; }
+   
+
 
     // Use this for initialization
     void Start ()
@@ -22,10 +22,7 @@ public class Towerplacement : MonoBehaviour {
         
     }
 
-    public void Setup()
-    {
-        IsEmpty = true;
-    }
+    
    
     private void OnMouseOver()
     {
@@ -34,11 +31,7 @@ public class Towerplacement : MonoBehaviour {
         if (!EventSystem.current.IsPointerOverGameObject() && GameManager.Instance.ClickedBtn != null)
         {
 
-            if (IsEmpty)
-            {
-
-            }
-            else if (Input.GetMouseButtonDown(0))
+           if (Input.GetMouseButtonDown(0))
             {
                 PlaceTower();
             }
@@ -51,9 +44,8 @@ public class Towerplacement : MonoBehaviour {
         GameObject tower = (GameObject)Instantiate(GameManager.Instance.ClickedBtn.TowerPrefab, transform.position, Quaternion.identity);
         //tower.GetComponent<SpriteRenderer>().sortingOrder = GridPosition.Y;
         
-        tower.transform.SetParent(transform);
+        //tower.transform.SetParent(transform);
 
-        IsEmpty = false;
 
         GameManager.Instance.BuyTower();
 
